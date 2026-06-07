@@ -3,10 +3,10 @@
 import type { LeagueFilter } from "@/lib/types";
 
 const FILTERS: { label: string; value: LeagueFilter }[] = [
-  { label: "ALL", value: "ALL" },
+  { label: "全部", value: "ALL" },
   { label: "NBA", value: "NBA" },
   { label: "CBA", value: "CBA" },
-  { label: "TEAM CHINA", value: "TEAM_CHINA" }
+  { label: "国家队", value: "TEAM_CHINA" }
 ];
 
 export function LeagueTabs({
@@ -17,20 +17,18 @@ export function LeagueTabs({
   onSelect: (filter: LeagueFilter) => void;
 }) {
   return (
-    <div className="flex w-full flex-wrap gap-2 rounded-none border border-cyanpunk/25 bg-black/35 p-1 shadow-cyan backdrop-blur">
+    <div className="flex w-full flex-wrap gap-1.5 rounded-none border border-white/10 bg-black/40 p-1.5 backdrop-blur">
       {FILTERS.map((filter) => {
         const active = selected === filter.value;
-
         return (
           <button
             key={filter.value}
             type="button"
-            title={`League filter: ${filter.label}`}
             onClick={() => onSelect(filter.value)}
-            className={`min-h-11 flex-1 border px-4 text-xs font-black uppercase tracking-[0.18em] transition sm:min-w-28 ${
+            className={`min-h-10 flex-1 border px-3 text-sm font-bold tracking-wide transition-all ${
               active
-                ? "border-cyanpunk bg-cyanpunk text-black shadow-cyan"
-                : "border-white/10 bg-white/[0.03] text-cyanpunk hover:border-magpunk hover:text-white hover:shadow-magenta"
+                ? "border-cyan-400 bg-cyan-500/20 text-cyan-300"
+                : "border-white/5 bg-white/[0.02] text-white/50 hover:border-white/20 hover:text-white/80"
             }`}
           >
             {filter.label}

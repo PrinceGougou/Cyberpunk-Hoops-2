@@ -66,12 +66,17 @@ const config: Config = {
           "60%": { transform: "translate(-1px, -1px)" },
           "80%": { transform: "translate(1px, 1px)" },
         },
+        marquee: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
       },
       animation: {
         flicker: "flicker 3.5s infinite",
         scan: "scan 6s linear infinite",
         "pulse-glow": "pulse-glow 1.5s ease-in-out infinite",
         glitch: "glitch 0.3s ease-in-out",
+        marquee: "marquee 30s linear infinite",
       },
     },
   },

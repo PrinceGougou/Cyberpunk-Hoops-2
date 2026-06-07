@@ -1,52 +1,60 @@
 "use client";
 
-import { RadioTower } from "lucide-react";
-import type { MatchData } from "@/lib/types";
+import type { MatchData, MatchStatus } from "@/lib/types";
 
-function scoreLabel(match: MatchData) {
-  if (typeof match.homeScore === "number" && typeof match.awayScore === "number") {
-    return `${match.homeScore} - ${match.awayScore}`;
-  }
+const STATUS_LABELS: Record<MatchStatus, string> = {
+  UPCOMING: "即将开始",
+  LIVE: "直播中",
+  FINISHED: "已结束"
+};
 
+const STATUS_CLASSES: Record<MatchStatus, string> = {
+  UPCOMING: "border-blue-400/60 text-blue-400",
+  LIVE: "border-red-500/60 bg-red-500/20 text-red-300 animate-pulse",
+  FINISHED: "border-white/15 text-white/40"
+};
+
+function formatDateTime(value: string) {
   return new Intl.DateTimeFormat("zh-CN", {
     month: "2-digit",
     day: "2-digit",
     hour: "2-digit",
     minute: "2-digit",
-    hour12: false
-  }).format(new Date(match.startsAt));
+    hour12: false,
+  }).format(new Date(value));
 }
 
 export function ScoreTicker({ matches }: { matches: MatchData[] }) {
-  const tickerMatches = matches
-    .filter((match) => match.status === "LIVE" || match.status === "FINISHED")
-    .concat(matches.filter((match) => match.status === "UPCOMING"))
-    .slice(0, 16);
+  const liveMatches = matches.filter((m) => m.status === "LIVE");
+  const recentFinished = matches.filter((m) => m.status === "FINISHED" && typeof m.homeScore === "number");
+  const items = [...liveMatches, ...recentFinished.slice(-8)];
+
+  if (items.length === 0) return null;
 
   return (
-    <section className="sticky top-0 z-40 border-b border-cyanpunk/30 bg-black/80 backdrop-blur-xl">
-      <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-3 sm:px-6 lg:px-8">
-        <div className="flex h-10 shrink-0 items-center gap-2 border border-magpunk bg-magpunk/15 px-3 text-xs font-black uppercase tracking-[0.16em] text-magpunk shadow-magenta">
-          <RadioTower className="h-4 w-4 animate-pulse" />
-          Score Tape
-        </div>
-        <div className="flex min-w-0 flex-1 gap-3 overflow-x-auto pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-          {tickerMatches.map((match) => (
-            <a
-              key={`ticker-${match.id}`}
-              href={match.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex min-h-10 shrink-0 items-center gap-3 border border-white/10 bg-white/[0.03] px-3 text-xs font-black uppercase tracking-[0.12em] text-white transition hover:border-cyanpunk hover:text-cyanpunk hover:shadow-cyan"
-            >
-              <span className={match.status === "LIVE" ? "text-magpunk" : "text-white/45"}>{match.status}</span>
-              <span>{match.homeTeam.abbreviation}</span>
-              <span className="text-acid">{scoreLabel(match)}</span>
-              <span>{match.awayTeam.abbreviation}</span>
-            </a>
+    <div className="border-b border-white/5 bg-black/60">
+      <div className="overflow-hidden">
+        <div className="flex animate-marquee gap-8 py-2 px-4">
+          {items.map((m) => (
+            <span key={m.id} className="inline-flex items-center gap-2 whitespace-nowrap text-xs font-bold">
+              <span className="text-white/70">{m.homeTeam.abbreviation}</span>
+              {typeof m.homeScore === "number" ? (
+                <>
+                  <span className="tabular-nums text-cyan-400">{m.homeScore}</span>
+                  <span className="text-white/30">-</span>
+                  <span className="tabular-nums text-cyan-400">{m.awayScore}</span>
+                </>
+              ) : (
+                <span className="text-white/20">VS</span>
+              )}
+              <span className="text-white/70">{m.awayTeam.abbreviation}</span>
+              <span className={`ml-1 text-[0.6rem] ${STATUS_CLASSES[m.status]}`}>
+                {STATUS_LABELS[m.status]}
+              </span>
+            </span>
           ))}
         </div>
       </div>
-    </section>
+    </div>
   );
 }

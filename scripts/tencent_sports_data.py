@@ -27,6 +27,7 @@ MATCHWEB_BASE = "https://matchweb.sports.qq.com"
 COLUMN_LEAGUE = {
     "100000": "NBA",
     "100008": "CBA",
+    "100035": "TEAM_CHINA",  # FIBA/China national team
 }
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36"

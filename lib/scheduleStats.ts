@@ -1,9 +1,11 @@
 import type { MatchData, StandingsRow } from "@/lib/types";
 
+/** 仅生成 NBA 排名（用户要求只要 NBA 排名） */
 export function buildStandings(matches: MatchData[]): StandingsRow[] {
   const table = new Map<string, StandingsRow>();
 
   for (const match of matches) {
+    if (match.league !== "NBA") continue;
     if (match.status !== "FINISHED") continue;
     if (typeof match.homeScore !== "number" || typeof match.awayScore !== "number") continue;
 

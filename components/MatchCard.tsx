@@ -1,198 +1,149 @@
 "use client";
 
-import { motion } from "framer-motion";
-import { ChevronDown, ChevronUp, Clock, Image, MapPin, Play, RadioTower, Zap } from "lucide-react";
-import { DataTable } from "@/components/DataTable";
-import { TeamLogo } from "@/components/TeamLogo";
-import type { MatchData, Team } from "@/lib/types";
+import { useState } from "react";
+import { ChevronDown, ChevronUp, Clock, MapPin, Star, Zap } from "lucide-react";
+import { PlayerRow } from "@/components/PlayerRow";
+import { useFavorites } from "@/context/FavoritesContext";
+import type { MatchData } from "@/lib/types";
 
-const STATUS_META = {
-  UPCOMING: { className: "border-cyan-500/60 text-cyan-400", glow: "" },
-  LIVE: { className: "border-magpunk bg-magpunk/20 text-white animate-pulse-glow", glow: "shadow-glow-magenta" },
-  FINISHED: { className: "border-white/20 text-white/50", glow: "" },
-} as const;
+const STATUS_CONFIG = {
+  UPCOMING: { label: "即将开始", cls: "border-blue-400/50 text-blue-400" },
+  LIVE: { label: "直播中", cls: "border-red-500/60 bg-red-500/15 text-red-300 animate-pulse" },
+  FINISHED: { label: "已结束", cls: "border-white/15 text-white/35" }
+};
+
+const LEAGUE_LABELS: Record<string, string> = {
+  NBA: "NBA", CBA: "CBA", TEAM_CHINA: "国家队"
+};
+
+const LEAGUE_COLORS: Record<string, string> = {
+  NBA: "border-blue-400/40 bg-blue-400/10 text-blue-300",
+  CBA: "border-red-400/40 bg-red-400/10 text-red-300",
+  TEAM_CHINA: "border-yellow-400/40 bg-yellow-400/10 text-yellow-300"
+};
 
 function formatDateTime(value: string) {
   return new Intl.DateTimeFormat("zh-CN", {
-    month: "2-digit",
-    day: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: false,
+    month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", hour12: false,
   }).format(new Date(value));
 }
 
-function TeamBlock({
-  team,
-  label,
-  score,
-}: {
-  team: Team;
-  label: "主队" | "客队";
-  score?: number;
-}) {
-  return (
-    <div className="flex min-w-0 items-center gap-3">
-      <TeamLogo team={team} />
-      <div className="min-w-0">
-        <span className="mb-1 inline-block text-[0.6rem] font-black uppercase tracking-[0.2em] text-white/40">
-          {label}
-        </span>
-        <div className="truncate text-lg font-black tracking-tight text-white sm:text-xl">{team.nameZh}</div>
-        <div className="truncate text-[0.65rem] uppercase tracking-[0.16em] text-cyanpunk">{team.name}</div>
-      </div>
-      {typeof score === "number" ? (
-        <div className="ml-auto font-mono text-3xl font-black tabular-nums text-acid drop-shadow-[0_0_8px_rgba(240,255,0,0.5)]">
-          {score}
-        </div>
-      ) : null}
-    </div>
-  );
-}
-
-const cardVariants = {
-  hidden: { opacity: 0, y: 24, filter: "blur(4px)" },
-  visible: { opacity: 1, y: 0, filter: "blur(0px)" },
-};
-
 export function MatchCard({
-  match,
-  expanded,
-  onToggle,
-  index = 0,
+  match, isFavorite = false
 }: {
-  match: MatchData;
-  expanded: boolean;
-  onToggle: () => void;
-  index?: number;
+  match: MatchData; isFavorite?: boolean;
 }) {
-  const statusMeta = STATUS_META[match.status] ?? STATUS_META.UPCOMING;
+  const [expanded, setExpanded] = useState(false);
+  const { toggleFavoriteTeam, isFavoriteTeam } = useFavorites();
+  const status = STATUS_CONFIG[match.status] ?? STATUS_CONFIG.FINISHED;
+  const leagueCls = LEAGUE_COLORS[match.league] || "";
+
+  const homeFav = isFavoriteTeam(match.homeTeam.id);
+  const awayFav = isFavoriteTeam(match.awayTeam.id);
 
   return (
-    <motion.article
-      variants={cardVariants}
-      initial="hidden"
-      animate="visible"
-      transition={{ duration: 0.4, delay: index * 0.06, ease: "easeOut" }}
-      className="group relative cursor-pointer overflow-hidden border border-cyan-500/30 bg-black/40 backdrop-blur-md transition-all duration-300 hover:-translate-y-0.5 hover:border-cyanpunk hover:shadow-glow-cyan"
-      onClick={onToggle}
-    >
-      {/* Subtle top-edge neon line */}
-      <div className="absolute left-4 right-4 top-0 h-[1px] bg-gradient-to-r from-transparent via-cyanpunk to-transparent opacity-60" />
-
-      <div className="p-4 sm:p-5">
-        {/* Header row */}
-        <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+    <article className={`group border bg-black/40 backdrop-blur transition-all ${
+      isFavorite
+        ? "border-cyan-400/40 shadow-[0_0_18px_rgba(6,182,212,0.15)]"
+        : "border-white/[0.06]"
+    }`}>
+      <div className="p-4">
+        {/* Header */}
+        <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
           <div className="flex flex-wrap items-center gap-2">
-            <span className="border border-purplepunk/40 bg-purplepunk/10 px-2 py-1 font-mono text-[0.6rem] font-black uppercase tracking-[0.18em] text-purple-300">
-              {match.league === "TEAM_CHINA" ? "TEAM CHINA" : match.league}
+            <span className={`border px-2 py-0.5 text-[0.65rem] font-black ${leagueCls}`}>
+              {LEAGUE_LABELS[match.league]}
             </span>
-            <span
-              className={`inline-flex items-center gap-1.5 border px-2 py-1 font-mono text-[0.6rem] font-black uppercase tracking-[0.18em] ${statusMeta.className} ${statusMeta.glow}`}
-            >
-              {match.status}
-              {match.status === "LIVE" && (
-                <span className="relative flex h-2 w-2">
-                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-magpunk opacity-75" />
-                  <span className="relative inline-flex h-2 w-2 rounded-full bg-magpunk" />
-                </span>
-              )}
+            <span className={`border px-2 py-0.5 text-[0.65rem] font-black ${status.cls}`}>
+              {status.label}
+            </span>
+            <span className="inline-flex items-center gap-1 text-[0.65rem] font-bold text-white/40">
+              <Clock className="h-3 w-3" />
+              {formatDateTime(match.startsAt)}
             </span>
           </div>
-
           <button
-            type="button"
-            aria-label={expanded ? "收起" : "展开"}
-            onClick={(e) => {
-              e.stopPropagation();
-              onToggle();
-            }}
-            className="grid h-9 w-9 place-items-center border border-cyan-500/40 text-cyanpunk transition hover:bg-cyanpunk hover:text-black"
+            onClick={() => setExpanded(!expanded)}
+            className="grid h-7 w-7 place-items-center border border-white/10 text-white/40 transition hover:text-white"
           >
-            {expanded ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+            {expanded ? <ChevronUp className="h-3.5 w-3.5" /> : <ChevronDown className="h-3.5 w-3.5" />}
           </button>
         </div>
 
-        {/* Meta row */}
-        <div className="mb-4 flex flex-wrap gap-4 font-mono text-[0.65rem] font-bold uppercase tracking-[0.12em] text-white/50">
-          <span className="inline-flex items-center gap-2">
-            <Clock className="h-4 w-4 text-cyanpunk" />
-            {formatDateTime(match.startsAt)}
-          </span>
-          <span className="inline-flex min-w-0 items-center gap-2">
-            <MapPin className="h-4 w-4 shrink-0 text-magpunk" />
-            <span className="truncate">{match.venue}</span>
-          </span>
-        </div>
-
-        {/* Score row */}
-        <div className="grid gap-4 xl:grid-cols-[1fr_auto_1fr] xl:items-center">
-          <TeamBlock team={match.homeTeam} label="主队" score={match.homeScore} />
-          <div className="mx-auto hidden border border-acid/60 px-4 py-1.5 font-mono text-xs font-black text-acid shadow-[0_0_14px_rgba(240,255,0,0.25)] xl:block">
-            VS
-          </div>
-          <TeamBlock team={match.awayTeam} label="客队" score={match.awayScore} />
-        </div>
-
-        {/* Media row */}
-        <div className="mt-5 border-t border-white/[0.08] pt-4" onClick={(e) => e.stopPropagation()}>
-          <div className="mb-3 font-mono text-[0.6rem] font-black uppercase tracking-[0.2em] text-white/40">
-            MEDIA ACCESS
-          </div>
-          <div className="grid gap-2 sm:grid-cols-2">
-            <a
-              href={match.videoHighlightUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex min-h-11 items-center justify-center gap-2 border border-magpunk/60 px-3 font-mono text-[0.65rem] font-black uppercase tracking-[0.12em] text-magpunk transition hover:bg-magpunk hover:text-white hover:shadow-glow-magenta"
+        {/* Teams */}
+        <div className="grid items-center gap-3" style={{ gridTemplateColumns: "1fr auto 1fr" }}>
+          <div className="flex items-center gap-3">
+            <button
+              onClick={(e) => { e.stopPropagation(); toggleFavoriteTeam(match.homeTeam.id); }}
+              className="shrink-0"
             >
-              <Play className="h-4 w-4" />
-              HIGHLIGHTS
-            </a>
-            <a
-              href={match.galleryUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex min-h-11 items-center justify-center gap-2 border border-cyanpunk/60 px-3 font-mono text-[0.65rem] font-black uppercase tracking-[0.12em] text-cyanpunk transition hover:bg-cyanpunk hover:text-black hover:shadow-glow-cyan"
-            >
-              <Image className="h-4 w-4" />
-              GALLERY
-            </a>
-          </div>
-          <div className="mt-2 font-mono text-[0.6rem] uppercase tracking-[0.14em] text-white/30">
-            {match.broadcastProvider}
-          </div>
-        </div>
-
-        {/* Roster drawer */}
-        {expanded ? (
-          <motion.div
-            initial={{ height: 0, opacity: 0 }}
-            animate={{ height: "auto", opacity: 1 }}
-            exit={{ height: 0, opacity: 0 }}
-            transition={{ duration: 0.3 }}
-            className="mt-5 overflow-hidden border-t border-white/[0.08] pt-4"
-            onClick={(e) => e.stopPropagation()}
-          >
-            <div className="grid gap-4 sm:grid-cols-2">
-              <div>
-                <div className="mb-2 flex items-center gap-2 font-mono text-[0.65rem] font-black uppercase tracking-[0.16em] text-cyanpunk">
-                  <Zap className="h-3 w-3" />
-                  {match.homeTeam.nameZh}
-                </div>
-                <DataTable players={match.homeTeam.roster} />
-              </div>
-              <div>
-                <div className="mb-2 flex items-center gap-2 font-mono text-[0.65rem] font-black uppercase tracking-[0.16em] text-magpunk">
-                  <Zap className="h-3 w-3" />
-                  {match.awayTeam.nameZh}
-                </div>
-                <DataTable players={match.awayTeam.roster} />
-              </div>
+              <Star className={`h-4 w-4 ${homeFav ? "fill-cyan-400 text-cyan-400" : "text-white/15"}`} />
+            </button>
+            <div className="min-w-0">
+              <div className="truncate text-lg font-black text-white">{match.homeTeam.nameZh}</div>
+              <div className="truncate text-xs text-white/35">{match.homeTeam.name}</div>
             </div>
-          </motion.div>
-        ) : null}
+          </div>
+
+          <div className="text-center">
+            {typeof match.homeScore === "number" ? (
+              <div className="font-mono text-2xl font-black tabular-nums text-cyan-400">
+                {match.homeScore}<span className="text-white/20"> - </span>{match.awayScore}
+              </div>
+            ) : (
+              <div className="px-3 py-1 font-mono text-xs font-black text-white/25 border border-white/10">VS</div>
+            )}
+          </div>
+
+          <div className="flex items-center gap-3 justify-end text-right">
+            <div className="min-w-0">
+              <div className="truncate text-lg font-black text-white">{match.awayTeam.nameZh}</div>
+              <div className="truncate text-xs text-white/35">{match.awayTeam.name}</div>
+            </div>
+            <button
+              onClick={(e) => { e.stopPropagation(); toggleFavoriteTeam(match.awayTeam.id); }}
+              className="shrink-0"
+            >
+              <Star className={`h-4 w-4 ${awayFav ? "fill-cyan-400 text-cyan-400" : "text-white/15"}`} />
+            </button>
+          </div>
+        </div>
+
+        {/* Venue */}
+        <div className="mt-3 flex items-center gap-2 text-xs text-white/30">
+          <MapPin className="h-3 w-3 shrink-0" />
+          <span className="truncate">{match.venue}</span>
+        </div>
       </div>
-    </motion.article>
+
+      {/* Expanded detail */}
+      {expanded && (
+        <div className="border-t border-white/[0.06] px-4 pb-4 pt-3">
+          <div className="grid gap-4 sm:grid-cols-2">
+            <div>
+              <div className="mb-2 flex items-center gap-2 text-xs font-black text-cyan-400">
+                <Zap className="h-3 w-3" /> {match.homeTeam.nameZh} 阵容
+              </div>
+              {match.homeTeam.roster.length > 0 ? (
+                match.homeTeam.roster.map((p) => <PlayerRow key={p.id} player={p} />)
+              ) : (
+                <p className="py-2 text-xs text-white/25">暂无球员数据</p>
+              )}
+            </div>
+            <div>
+              <div className="mb-2 flex items-center gap-2 text-xs font-black text-magpunk">
+                <Zap className="h-3 w-3" /> {match.awayTeam.nameZh} 阵容
+              </div>
+              {match.awayTeam.roster.length > 0 ? (
+                match.awayTeam.roster.map((p) => <PlayerRow key={p.id} player={p} />)
+              ) : (
+                <p className="py-2 text-xs text-white/25">暂无球员数据</p>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+    </article>
   );
 }
