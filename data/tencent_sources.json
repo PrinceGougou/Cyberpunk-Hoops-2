@@ -1,0 +1,53 @@
+{
+  "cacheDir": "data/cache",
+  "outputFile": "data/schedule.json",
+  "sources": {
+    "NBA": {
+      "homepage": "https://sports.qq.com/nba/",
+      "referers": [
+        "https://sports.qq.com/",
+        "https://sports.qq.com/nba/",
+        "https://sports.qq.com/kbsweb/"
+      ],
+      "candidatePages": [
+        "https://sports.qq.com/nba/",
+        "https://sports.qq.com/kbsweb/"
+      ],
+      "videoHighlightUrl": "https://sports.qq.com/nba/",
+      "galleryUrl": "https://sports.qq.com/nba/",
+      "broadcastProvider": "Tencent Sports"
+    },
+    "CBA": {
+      "homepage": "https://sports.qq.com/cba/",
+      "referers": [
+        "https://sports.qq.com/",
+        "https://sports.qq.com/cba/",
+        "https://sports.qq.com/kbsweb/"
+      ],
+      "candidatePages": [
+        "https://sports.qq.com/cba/",
+        "https://sports.qq.com/kbsweb/"
+      ],
+      "videoHighlightUrl": "https://sports.qq.com/cba/",
+      "galleryUrl": "https://sports.qq.com/cba/",
+      "broadcastProvider": "Tencent Sports"
+    },
+    "TEAM_CHINA": {
+      "homepage": "https://sports.qq.com/",
+      "referers": [
+        "https://sports.qq.com/",
+        "https://sports.qq.com/cba/",
+        "https://sports.qq.com/kbsweb/"
+      ],
+      "candidatePages": [
+        "https://sports.qq.com/",
+        "https://sports.qq.com/cba/",
+        "https://sports.qq.com/kbsweb/"
+      ],
+      "keywords": ["中国男篮", "中国女篮", "国家队", "中国队"],
+      "videoHighlightUrl": "https://sports.qq.com/",
+      "galleryUrl": "https://sports.qq.com/",
+      "broadcastProvider": "Tencent Sports"
+    }
+  }
+}

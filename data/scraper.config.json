@@ -1,0 +1,21 @@
+{
+  "outputFile": "data/schedule.json",
+  "sources": [
+    {
+      "league": "CBA",
+      "name": "CBA League Official",
+      "url": "https://www.cbaleague.com/#/",
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/",
+      "galleryUrl": "https://www.cbaleague.com/#/",
+      "broadcastProvider": "Tencent Sports / CBA League"
+    },
+    {
+      "league": "TEAM_CHINA",
+      "name": "Chinese Basketball Association",
+      "url": "https://www.cba.net.cn/",
+      "videoHighlightUrl": "https://www.miguvideo.com/mgs/website/prd/sportLive.html",
+      "galleryUrl": "https://www.cba.net.cn/",
+      "broadcastProvider": "Migu / CBA"
+    }
+  ]
+}
