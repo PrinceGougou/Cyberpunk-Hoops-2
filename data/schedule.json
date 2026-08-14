@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:30:36.085449+00:00",
+  "generatedAt": "2026-08-14T07:53:46.741566+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -10364,39 +10364,6 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:11522600076"
     },
     {
-      "id": "lol-116566854547769600",
-      "league": "LOL_LPL",
-      "startsAt": "2026-07-24T09:00:00Z",
-      "venue": "LPL · 第 1 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeTeam": {
-        "id": "lol-jdg",
-        "name": "Beijing JDG Esports",
-        "nameZh": "Beijing JDG Esports",
-        "abbreviation": "JDG",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LPL",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-we",
-        "name": "Xi'an Team WE",
-        "nameZh": "Xi'an Team WE",
-        "abbreviation": "WE",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LPL",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lpl"
-    },
-    {
       "id": "lol-116566854547769564",
       "league": "LOL_LPL",
       "startsAt": "2026-07-24T11:00:00Z",
@@ -12777,9 +12744,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-14T07:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-edg",
         "name": "EDWARD GAMING",
@@ -12810,9 +12777,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-14T08:00:00Z",
       "venue": "LCK · 第 12 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-t1",
         "name": "T1",
@@ -12843,9 +12810,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-14T09:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-we",
         "name": "Xi'an Team WE",
@@ -12909,9 +12876,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-14T11:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -15246,40 +15213,73 @@
       "galleryUrl": "",
       "broadcastProvider": "LoL Esports (Riot Games)",
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lpl"
+    },
+    {
+      "id": "lol-116957100120526830",
+      "league": "LOL_LPL",
+      "startsAt": "2026-09-18T09:00:00Z",
+      "venue": "LPL · 赛区资格赛 · BO5",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "lol-tbd",
+        "name": "TBD",
+        "nameZh": "TBD",
+        "abbreviation": "TBD",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "LOL_LPL",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "lol-tbd",
+        "name": "TBD",
+        "nameZh": "TBD",
+        "abbreviation": "TBD",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "LOL_LPL",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://live.bilibili.com/lol",
+      "galleryUrl": "",
+      "broadcastProvider": "LoL Esports (Riot Games)",
+      "sourceUrl": "https://lolesports.com/en-US/?leagues=lpl"
     }
   ],
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:28.741750+00:00"
+      "updatedAt": "2026-08-14T07:53:34.896532+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:28.953201+00:00"
+      "updatedAt": "2026-08-14T07:53:35.844182+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:30.222242+00:00"
+      "updatedAt": "2026-08-14T07:53:45.392357+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:31.408103+00:00"
+      "updatedAt": "2026-08-14T07:53:45.659299+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:32.684290+00:00"
+      "updatedAt": "2026-08-14T07:53:45.939917+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:33.883425+00:00"
+      "updatedAt": "2026-08-14T07:53:46.199472+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:35.079452+00:00"
+      "updatedAt": "2026-08-14T07:53:46.457459+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-14T05:30:36.083460+00:00"
+      "updatedAt": "2026-08-14T07:53:46.740830+00:00"
     }
   },
   "errors": []
