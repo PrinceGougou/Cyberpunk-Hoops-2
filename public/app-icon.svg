@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Cyberpunk Hoops</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071017"/>
+      <stop offset="1" stop-color="#16051d"/>
+    </linearGradient>
+    <linearGradient id="ball" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00f5ff"/>
+      <stop offset="1" stop-color="#ff00ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="82" fill="url(#bg)"/>
+  <path d="M42 96H470M42 416H470M96 42V470M416 42V470" stroke="#00f5ff" stroke-opacity=".12" stroke-width="4"/>
+  <circle cx="256" cy="256" r="154" fill="none" stroke="url(#ball)" stroke-width="24" filter="url(#glow)"/>
+  <path d="M256 102c-61 40-95 94-95 154s34 114 95 154M256 102c61 40 95 94 95 154s-34 114-95 154M104 256h304M148 148l216 216" fill="none" stroke="#eaffff" stroke-width="14" stroke-linecap="round" opacity=".9"/>
+  <path d="M60 76h84M368 436h84" stroke="#f0ff00" stroke-width="10"/>
+</svg>

@@ -7,11 +7,15 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
+    "doctor": "node scripts/doctor.mjs",
+    "check:data": "node scripts/doctor.mjs --strict",
+    "check": "npm run lint && npm run check:data && npm run build",
     "scrape:schedules": "python scripts/scrape_cba_schedule.py"
   },
+  "engines": {
+    "node": ">=18.18.0"
+  },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.3.0",
-    "cheerio": "^1.0.0",
     "framer-motion": "^12.40.0",
     "lucide-react": "^0.468.0",
     "next": "^15.0.0",

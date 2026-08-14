@@ -22,7 +22,16 @@ body {
     radial-gradient(circle at right 12%, rgba(255, 0, 255, 0.10), transparent 26rem),
     linear-gradient(135deg, #0A0A0A 0%, #0C0C14 58%, #080810 100%);
   color: #e7fbff;
-  font-family: var(--font-orbitron), var(--font-geist-sans), Arial, sans-serif;
+  font-family: var(--font-orbitron), "Microsoft YaHei UI", "PingFang SC", "Noto Sans CJK SC", Arial, sans-serif;
+}
+
+::selection {
+  background: rgba(0, 245, 255, 0.28);
+  color: #ffffff;
+}
+
+summary::-webkit-details-marker {
+  display: none;
 }
 
 button,
@@ -110,4 +119,14 @@ a:focus-visible {
   40% { transform: translate(1.5px, -1.5px); }
   60% { transform: translate(-1.5px, -1px); }
   80% { transform: translate(1px, 1.5px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
 }

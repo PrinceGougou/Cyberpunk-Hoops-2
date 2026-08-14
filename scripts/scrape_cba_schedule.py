@@ -2,13 +2,14 @@
 """
 Compatibility wrapper for the schedule acquisition pipeline.
 
-The dashboard still calls `npm run scrape:schedules`, but the implementation
-now delegates to Tencent Sports acquisition functions in tencent_sports_data.py.
+The dashboard still calls `npm run scrape:schedules`, while the implementation
+combines Tencent NBA/CBA, China Basketball Association men's national team,
+and Riot LoL Esports data.
 """
 
 from __future__ import annotations
 
-from tencent_sports_data import write_schedule_json
+from schedule_pipeline import write_schedule_json
 
 
 def main() -> int:

@@ -2,12 +2,17 @@ name: Auto-refresh schedule data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "17 */2 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: refresh-schedule
+  cancel-in-progress: true
 
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
 
@@ -25,8 +30,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run schedule scraper
-        continue-on-error: true
         run: python scripts/scrape_cba_schedule.py
+
+      - name: Validate generated data
+        run: node scripts/doctor.mjs --strict
 
       - name: Commit and push if data changed
         run: |

@@ -3,7 +3,7 @@
 import type { LeagueFilter } from "@/lib/types";
 
 const FILTERS: { label: string; value: LeagueFilter }[] = [
-  { label: "全部", value: "ALL" },
+  { label: "LOL", value: "LOL" },
   { label: "NBA", value: "NBA" },
   { label: "CBA", value: "CBA" },
   { label: "国家队", value: "TEAM_CHINA" }

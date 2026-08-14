@@ -1,4 +1,8 @@
-export type League = "NBA" | "CBA" | "TEAM_CHINA";
+export type BasketballLeague = "NBA" | "CBA" | "TEAM_CHINA";
+
+export type LolLeague = "LOL_LPL" | "LOL_LCK" | "LOL_INTL";
+
+export type League = BasketballLeague | LolLeague;
 
 export type MatchStatus = "UPCOMING" | "LIVE" | "FINISHED";
 
@@ -20,6 +24,7 @@ export type Team = {
   abbreviation: string;
   primaryColor: string;
   secondaryColor: string;
+  group?: "NBA_EAST" | "NBA_WEST" | "NBA_OTHER" | "CBA" | "TEAM_CHINA" | "LOL_LPL" | "LOL_LCK" | "LOL_INTL";
   roster: Player[];
 };
 
@@ -50,11 +55,24 @@ export type StandingsRow = {
   rank: number;
 };
 
-export type LeagueFilter = "ALL" | League;
+export type LeagueFilter = "LOL" | BasketballLeague;
+
+export type ScheduleScope = "NEARBY" | "UPCOMING" | "RESULTS";
+
+export type DataSourceStatus = {
+  id: "TENCENT_SPORTS" | "CHINA_BASKETBALL_OFFICIAL" | "LOL_ESPORTS_OFFICIAL";
+  name: string;
+  url: string;
+  status: "fresh" | "stale" | "unavailable";
+  updatedAt?: string;
+  message?: string;
+};
 
 export type ScheduleResponse = {
   generatedAt: string;
   matches: MatchData[];
   standings: StandingsRow[];
+  sources: DataSourceStatus[];
+  isStale: boolean;
   errors?: string[];
 };
