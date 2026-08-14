@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T13:42:50.578203+00:00",
+  "generatedAt": "2026-08-14T15:07:19.560135+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12845,7 +12845,7 @@
       "venue": "LPL · 第 4 周 · BO3",
       "status": "FINISHED",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -12909,9 +12909,9 @@
       "league": "CBA",
       "startsAt": "2026-08-14T20:00:00+08:00",
       "venue": "CBA夏季联赛库尔勒站B组",
-      "status": "LIVE",
-      "homeScore": 61,
-      "awayScore": 81,
+      "status": "FINISHED",
+      "homeScore": 69,
+      "awayScore": 87,
       "homeTeam": {
         "id": "cba-40320",
         "name": "青岛崂山啤酒",
@@ -15251,35 +15251,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:39.406494+00:00"
+      "updatedAt": "2026-08-14T15:07:07.875185+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:40.039638+00:00"
+      "updatedAt": "2026-08-14T15:07:08.543750+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:49.873428+00:00"
+      "updatedAt": "2026-08-14T15:07:18.085166+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:50.064026+00:00"
+      "updatedAt": "2026-08-14T15:07:18.504023+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:50.185476+00:00"
+      "updatedAt": "2026-08-14T15:07:18.801130+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:50.327384+00:00"
+      "updatedAt": "2026-08-14T15:07:19.120119+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:50.461102+00:00"
+      "updatedAt": "2026-08-14T15:07:19.381109+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-14T13:42:50.577538+00:00"
+      "updatedAt": "2026-08-14T15:07:19.559286+00:00"
     }
   },
   "errors": []
