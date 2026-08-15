@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:45:12.600056+00:00",
+  "generatedAt": "2026-08-15T10:38:46.001426+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12811,7 +12811,7 @@
       "startsAt": "2026-08-15T07:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
       "status": "FINISHED",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeTeam": {
         "id": "lol-nip",
@@ -12844,8 +12844,8 @@
       "startsAt": "2026-08-15T08:00:00Z",
       "venue": "LCK · 第 12 周 · BO3",
       "status": "LIVE",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-kt",
         "name": "kt Rolster",
@@ -12975,9 +12975,9 @@
       "league": "CBA",
       "startsAt": "2026-08-15T17:00:00+08:00",
       "venue": "CBA夏季联赛库尔勒站B组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 72,
+      "awayScore": 76,
       "homeTeam": {
         "id": "cba-40323",
         "name": "北京控股",
@@ -15119,35 +15119,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:04.664121+00:00"
+      "updatedAt": "2026-08-15T10:38:36.977684+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:05.408706+00:00"
+      "updatedAt": "2026-08-15T10:38:37.897926+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:12.103558+00:00"
+      "updatedAt": "2026-08-15T10:38:44.349675+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:12.221900+00:00"
+      "updatedAt": "2026-08-15T10:38:45.011864+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:12.328762+00:00"
+      "updatedAt": "2026-08-15T10:38:45.255904+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:12.444615+00:00"
+      "updatedAt": "2026-08-15T10:38:45.500215+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:12.510264+00:00"
+      "updatedAt": "2026-08-15T10:38:45.719125+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-15T08:45:12.599254+00:00"
+      "updatedAt": "2026-08-15T10:38:46.000688+00:00"
     }
   },
   "errors": []
