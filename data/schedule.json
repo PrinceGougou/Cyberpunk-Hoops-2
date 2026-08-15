@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:38:29.893192+00:00",
+  "generatedAt": "2026-08-15T16:41:19.171182+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12943,7 +12943,7 @@
       "startsAt": "2026-08-15T11:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
       "status": "FINISHED",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeTeam": {
         "id": "lol-blg",
@@ -13233,6 +13233,72 @@
       "galleryUrl": "",
       "broadcastProvider": "LoL Esports (Riot Games)",
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lpl"
+    },
+    {
+      "id": "cba-100008-100110293",
+      "league": "CBA",
+      "startsAt": "2026-08-16T17:00:00+08:00",
+      "venue": "CBA夏季联赛库尔勒站三四名决赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40321",
+        "name": "江苏肯帝亚",
+        "nameZh": "江苏肯帝亚",
+        "abbreviation": "江苏肯",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40317",
+        "name": "山西汾酒",
+        "nameZh": "山西汾酒",
+        "abbreviation": "山西汾",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110293",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110293",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110293"
+    },
+    {
+      "id": "cba-100008-100110294",
+      "league": "CBA",
+      "startsAt": "2026-08-16T20:00:00+08:00",
+      "venue": "CBA夏季联赛库尔勒站冠亚军决赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40310",
+        "name": "新疆伊力特",
+        "nameZh": "新疆伊力特",
+        "abbreviation": "新疆伊",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40323",
+        "name": "北京控股",
+        "nameZh": "北京控股",
+        "abbreviation": "北京控",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110294",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110294",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110294"
     },
     {
       "id": "team-china-1113577",
@@ -15119,35 +15185,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:23.334659+00:00"
+      "updatedAt": "2026-08-15T16:41:10.507571+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:23.944490+00:00"
+      "updatedAt": "2026-08-15T16:41:11.228166+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:29.387477+00:00"
+      "updatedAt": "2026-08-15T16:41:18.536848+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:29.507437+00:00"
+      "updatedAt": "2026-08-15T16:41:18.688540+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:29.571750+00:00"
+      "updatedAt": "2026-08-15T16:41:18.778159+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:29.695576+00:00"
+      "updatedAt": "2026-08-15T16:41:18.905410+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:29.796429+00:00"
+      "updatedAt": "2026-08-15T16:41:19.020525+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-15T14:38:29.892539+00:00"
+      "updatedAt": "2026-08-15T16:41:19.170441+00:00"
     }
   },
   "errors": []
