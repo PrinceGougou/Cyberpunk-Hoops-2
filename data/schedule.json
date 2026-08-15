@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:57:21.980423+00:00",
+  "generatedAt": "2026-08-15T08:45:12.600056+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12810,9 +12810,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-15T07:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-nip",
         "name": "Shenzhen NINJAS IN PYJAMAS",
@@ -12843,24 +12843,24 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-15T08:00:00Z",
       "venue": "LCK · 第 12 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-hle",
-        "name": "Hanwha Life Esports",
-        "nameZh": "Hanwha Life Esports",
-        "abbreviation": "HLE",
+        "id": "lol-kt",
+        "name": "kt Rolster",
+        "nameZh": "kt Rolster",
+        "abbreviation": "KT",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-kt",
-        "name": "kt Rolster",
-        "nameZh": "kt Rolster",
-        "abbreviation": "KT",
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -12876,9 +12876,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-15T09:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-al",
         "name": "Anyone's Legend",
@@ -12942,9 +12942,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-15T11:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-blg",
         "name": "BILIBILI GAMING",
@@ -15119,35 +15119,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:11.836723+00:00"
+      "updatedAt": "2026-08-15T08:45:04.664121+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:12.607247+00:00"
+      "updatedAt": "2026-08-15T08:45:05.408706+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:20.720847+00:00"
+      "updatedAt": "2026-08-15T08:45:12.103558+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:21.088942+00:00"
+      "updatedAt": "2026-08-15T08:45:12.221900+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:21.334929+00:00"
+      "updatedAt": "2026-08-15T08:45:12.328762+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:21.494094+00:00"
+      "updatedAt": "2026-08-15T08:45:12.444615+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:21.720142+00:00"
+      "updatedAt": "2026-08-15T08:45:12.510264+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-15T06:57:21.979744+00:00"
+      "updatedAt": "2026-08-15T08:45:12.599254+00:00"
     }
   },
   "errors": []
