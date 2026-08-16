@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:47:15.113218+00:00",
+  "generatedAt": "2026-08-16T10:39:40.643037+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12878,7 +12878,7 @@
       "venue": "LPL · 第 4 周 · BO3",
       "status": "FINISHED",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -12909,8 +12909,8 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-16T08:00:00Z",
       "venue": "LCK · 第 12 周 · BO3",
-      "status": "LIVE",
-      "homeScore": 0,
+      "status": "FINISHED",
+      "homeScore": 2,
       "awayScore": 0,
       "homeTeam": {
         "id": "lol-gen",
@@ -12975,24 +12975,24 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-16T10:00:00Z",
       "venue": "LCK · 第 12 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-krx",
-        "name": "KIWOOM DRX",
-        "nameZh": "KIWOOM DRX",
-        "abbreviation": "KRX",
+        "id": "lol-bro",
+        "name": "HANJIN BRION",
+        "nameZh": "HANJIN BRION",
+        "abbreviation": "BRO",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-bro",
-        "name": "HANJIN BRION",
-        "nameZh": "HANJIN BRION",
-        "abbreviation": "BRO",
+        "id": "lol-krx",
+        "name": "KIWOOM DRX",
+        "nameZh": "KIWOOM DRX",
+        "abbreviation": "KRX",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -13041,9 +13041,9 @@
       "league": "CBA",
       "startsAt": "2026-08-16T17:00:00+08:00",
       "venue": "CBA夏季联赛库尔勒站三四名决赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 82,
+      "awayScore": 88,
       "homeTeam": {
         "id": "cba-40321",
         "name": "江苏肯帝亚",
@@ -14987,35 +14987,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:06.353554+00:00"
+      "updatedAt": "2026-08-16T10:39:31.769661+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:06.939256+00:00"
+      "updatedAt": "2026-08-16T10:39:32.494899+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:14.427309+00:00"
+      "updatedAt": "2026-08-16T10:39:39.317688+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:14.723953+00:00"
+      "updatedAt": "2026-08-16T10:39:39.688976+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:14.803475+00:00"
+      "updatedAt": "2026-08-16T10:39:39.976221+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:14.909286+00:00"
+      "updatedAt": "2026-08-16T10:39:40.258237+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:15.013628+00:00"
+      "updatedAt": "2026-08-16T10:39:40.491264+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-16T08:47:15.112551+00:00"
+      "updatedAt": "2026-08-16T10:39:40.642261+00:00"
     }
   },
   "errors": []
