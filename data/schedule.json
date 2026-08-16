@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:58:59.522993+00:00",
+  "generatedAt": "2026-08-16T08:47:15.113218+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12876,9 +12876,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-16T07:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -12909,24 +12909,24 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-16T08:00:00Z",
       "venue": "LCK · 第 12 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-t1",
-        "name": "T1",
-        "nameZh": "T1",
-        "abbreviation": "T1",
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-gen",
-        "name": "Gen.G Esports",
-        "nameZh": "Gen.G Esports",
-        "abbreviation": "GEN",
+        "id": "lol-t1",
+        "name": "T1",
+        "nameZh": "T1",
+        "abbreviation": "T1",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -12942,9 +12942,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-16T09:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-wbg",
         "name": "WeiboGaming",
@@ -13008,9 +13008,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-16T11:00:00Z",
       "venue": "LPL · 第 4 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-edg",
         "name": "EDWARD GAMING",
@@ -14987,35 +14987,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:45.738819+00:00"
+      "updatedAt": "2026-08-16T08:47:06.353554+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:46.558523+00:00"
+      "updatedAt": "2026-08-16T08:47:06.939256+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:58.344004+00:00"
+      "updatedAt": "2026-08-16T08:47:14.427309+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:58.616178+00:00"
+      "updatedAt": "2026-08-16T08:47:14.723953+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:58.756196+00:00"
+      "updatedAt": "2026-08-16T08:47:14.803475+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:59.005298+00:00"
+      "updatedAt": "2026-08-16T08:47:14.909286+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:59.269804+00:00"
+      "updatedAt": "2026-08-16T08:47:15.013628+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-16T06:58:59.522196+00:00"
+      "updatedAt": "2026-08-16T08:47:15.112551+00:00"
     }
   },
   "errors": []
