@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:38:10.064533+00:00",
+  "generatedAt": "2026-08-16T16:42:25.853700+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -13010,7 +13010,7 @@
       "venue": "LPL · 第 4 周 · BO3",
       "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-edg",
         "name": "EDWARD GAMING",
@@ -14987,35 +14987,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:37:57.381610+00:00"
+      "updatedAt": "2026-08-16T16:42:15.718244+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:37:58.153456+00:00"
+      "updatedAt": "2026-08-16T16:42:16.299942+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:38:09.007693+00:00"
+      "updatedAt": "2026-08-16T16:42:25.221268+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:38:09.298514+00:00"
+      "updatedAt": "2026-08-16T16:42:25.454842+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:38:09.442153+00:00"
+      "updatedAt": "2026-08-16T16:42:25.548428+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:38:09.683491+00:00"
+      "updatedAt": "2026-08-16T16:42:25.673306+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:38:09.932207+00:00"
+      "updatedAt": "2026-08-16T16:42:25.753945+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-16T14:38:10.063886+00:00"
+      "updatedAt": "2026-08-16T16:42:25.852929+00:00"
     }
   },
   "errors": []
