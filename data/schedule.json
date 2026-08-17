@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:05:22.513221+00:00",
+  "generatedAt": "2026-08-17T14:44:26.186998+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12909,9 +12909,9 @@
       "league": "TEAM_CHINA",
       "startsAt": "2026-08-17T19:30:00+08:00",
       "venue": "广东佛山 · 2026中国男篮热身赛（vs乌拉圭男篮） · 热身赛 第3场",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 77,
+      "awayScore": 84,
       "homeTeam": {
         "id": "team-china-22298",
         "name": "中国男篮",
@@ -14789,35 +14789,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:13.872436+00:00"
+      "updatedAt": "2026-08-17T14:44:15.722641+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:14.645973+00:00"
+      "updatedAt": "2026-08-17T14:44:16.553645+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:21.218868+00:00"
+      "updatedAt": "2026-08-17T14:44:24.976138+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:21.570349+00:00"
+      "updatedAt": "2026-08-17T14:44:25.338590+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:21.797153+00:00"
+      "updatedAt": "2026-08-17T14:44:25.575136+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:22.049718+00:00"
+      "updatedAt": "2026-08-17T14:44:25.711341+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:22.280438+00:00"
+      "updatedAt": "2026-08-17T14:44:25.960531+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-17T13:05:22.512425+00:00"
+      "updatedAt": "2026-08-17T14:44:26.186228+00:00"
     }
   },
   "errors": []
