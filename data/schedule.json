@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:04:21.315945+00:00",
+  "generatedAt": "2026-08-18T08:53:54.930607+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -13829,6 +13829,138 @@
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
     },
     {
+      "id": "cba-100008-100110295",
+      "league": "CBA",
+      "startsAt": "2026-09-02T11:00:00+08:00",
+      "venue": "CBA夏季联赛青岛站B组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40308",
+        "name": "辽宁本钢",
+        "nameZh": "辽宁本钢",
+        "abbreviation": "辽宁本",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40307",
+        "name": "福建晋江文旅",
+        "nameZh": "福建晋江文旅",
+        "abbreviation": "福建晋",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110295",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110295",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110295"
+    },
+    {
+      "id": "cba-100008-100110296",
+      "league": "CBA",
+      "startsAt": "2026-09-02T13:30:00+08:00",
+      "venue": "CBA夏季联赛青岛站A组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40317",
+        "name": "山西汾酒",
+        "nameZh": "山西汾酒",
+        "abbreviation": "山西汾",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40316",
+        "name": "天津先行者",
+        "nameZh": "天津先行者",
+        "abbreviation": "天津先",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110296",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110296",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110296"
+    },
+    {
+      "id": "cba-100008-100110297",
+      "league": "CBA",
+      "startsAt": "2026-09-02T17:30:00+08:00",
+      "venue": "CBA夏季联赛青岛站B组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40319",
+        "name": "北京北汽",
+        "nameZh": "北京北汽",
+        "abbreviation": "北京北",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40318",
+        "name": "山东高速",
+        "nameZh": "山东高速",
+        "abbreviation": "山东高",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110297",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110297",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110297"
+    },
+    {
+      "id": "cba-100008-100110298",
+      "league": "CBA",
+      "startsAt": "2026-09-02T20:00:00+08:00",
+      "venue": "CBA夏季联赛青岛站A组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40320",
+        "name": "青岛崂山啤酒",
+        "nameZh": "青岛崂山啤酒",
+        "abbreviation": "青岛崂",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40305",
+        "name": "浙江浙商证券",
+        "nameZh": "浙江浙商证券",
+        "abbreviation": "浙江浙",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110298",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110298",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110298"
+    },
+    {
       "id": "lol-117030752644841613",
       "league": "LOL_LCK",
       "startsAt": "2026-09-03T08:00:00Z",
@@ -13895,6 +14027,138 @@
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lpl"
     },
     {
+      "id": "cba-100008-100110299",
+      "league": "CBA",
+      "startsAt": "2026-09-03T11:00:00+08:00",
+      "venue": "CBA夏季联赛青岛站B组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40318",
+        "name": "山东高速",
+        "nameZh": "山东高速",
+        "abbreviation": "山东高",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40308",
+        "name": "辽宁本钢",
+        "nameZh": "辽宁本钢",
+        "abbreviation": "辽宁本",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110299",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110299",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110299"
+    },
+    {
+      "id": "cba-100008-100110300",
+      "league": "CBA",
+      "startsAt": "2026-09-03T13:30:00+08:00",
+      "venue": "CBA夏季联赛青岛站A组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40305",
+        "name": "浙江浙商证券",
+        "nameZh": "浙江浙商证券",
+        "abbreviation": "浙江浙",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40317",
+        "name": "山西汾酒",
+        "nameZh": "山西汾酒",
+        "abbreviation": "山西汾",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110300",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110300",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110300"
+    },
+    {
+      "id": "cba-100008-100110301",
+      "league": "CBA",
+      "startsAt": "2026-09-03T17:30:00+08:00",
+      "venue": "CBA夏季联赛青岛站B组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40307",
+        "name": "福建晋江文旅",
+        "nameZh": "福建晋江文旅",
+        "abbreviation": "福建晋",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40319",
+        "name": "北京北汽",
+        "nameZh": "北京北汽",
+        "abbreviation": "北京北",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110301",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110301",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110301"
+    },
+    {
+      "id": "cba-100008-100110302",
+      "league": "CBA",
+      "startsAt": "2026-09-03T20:00:00+08:00",
+      "venue": "CBA夏季联赛青岛站A组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40316",
+        "name": "天津先行者",
+        "nameZh": "天津先行者",
+        "abbreviation": "天津先",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40320",
+        "name": "青岛崂山啤酒",
+        "nameZh": "青岛崂山啤酒",
+        "abbreviation": "青岛崂",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110302",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110302",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110302"
+    },
+    {
       "id": "lol-117030752644841625",
       "league": "LOL_LCK",
       "startsAt": "2026-09-04T08:00:00Z",
@@ -13959,6 +14223,138 @@
       "galleryUrl": "",
       "broadcastProvider": "LoL Esports (Riot Games)",
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lpl"
+    },
+    {
+      "id": "cba-100008-100110303",
+      "league": "CBA",
+      "startsAt": "2026-09-04T11:00:00+08:00",
+      "venue": "CBA夏季联赛青岛站B组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40318",
+        "name": "山东高速",
+        "nameZh": "山东高速",
+        "abbreviation": "山东高",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40307",
+        "name": "福建晋江文旅",
+        "nameZh": "福建晋江文旅",
+        "abbreviation": "福建晋",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110303",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110303",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110303"
+    },
+    {
+      "id": "cba-100008-100110304",
+      "league": "CBA",
+      "startsAt": "2026-09-04T13:30:00+08:00",
+      "venue": "CBA夏季联赛青岛站A组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40305",
+        "name": "浙江浙商证券",
+        "nameZh": "浙江浙商证券",
+        "abbreviation": "浙江浙",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40316",
+        "name": "天津先行者",
+        "nameZh": "天津先行者",
+        "abbreviation": "天津先",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110304",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110304",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110304"
+    },
+    {
+      "id": "cba-100008-100110305",
+      "league": "CBA",
+      "startsAt": "2026-09-04T17:30:00+08:00",
+      "venue": "CBA夏季联赛青岛站B组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40319",
+        "name": "北京北汽",
+        "nameZh": "北京北汽",
+        "abbreviation": "北京北",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40308",
+        "name": "辽宁本钢",
+        "nameZh": "辽宁本钢",
+        "abbreviation": "辽宁本",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110305",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110305",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110305"
+    },
+    {
+      "id": "cba-100008-100110306",
+      "league": "CBA",
+      "startsAt": "2026-09-04T20:00:00+08:00",
+      "venue": "CBA夏季联赛青岛站A组",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40320",
+        "name": "青岛崂山啤酒",
+        "nameZh": "青岛崂山啤酒",
+        "abbreviation": "青岛崂",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40317",
+        "name": "山西汾酒",
+        "nameZh": "山西汾酒",
+        "abbreviation": "山西汾",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110306",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110306",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110306"
     },
     {
       "id": "lol-115616310125824715",
@@ -14525,35 +14921,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:12.212797+00:00"
+      "updatedAt": "2026-08-18T08:53:43.784575+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:12.900319+00:00"
+      "updatedAt": "2026-08-18T08:53:44.498472+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:19.725848+00:00"
+      "updatedAt": "2026-08-18T08:53:53.737719+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:20.151237+00:00"
+      "updatedAt": "2026-08-18T08:53:54.094764+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:20.439348+00:00"
+      "updatedAt": "2026-08-18T08:53:54.324331+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:20.738526+00:00"
+      "updatedAt": "2026-08-18T08:53:54.547370+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:21.022003+00:00"
+      "updatedAt": "2026-08-18T08:53:54.807403+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-18T07:04:21.315167+00:00"
+      "updatedAt": "2026-08-18T08:53:54.930144+00:00"
     }
   },
   "errors": []
