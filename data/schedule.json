@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T08:54:29.890258+00:00",
+  "generatedAt": "2026-08-19T10:46:06.527795+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12349,7 +12349,7 @@
       "startsAt": "2026-08-19T07:00:00Z",
       "venue": "LPL · 第 5 周 · BO3",
       "status": "FINISHED",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeTeam": {
         "id": "lol-wbg",
@@ -12385,20 +12385,20 @@
       "homeScore": 0,
       "awayScore": 0,
       "homeTeam": {
-        "id": "lol-al",
-        "name": "Anyone's Legend",
-        "nameZh": "Anyone's Legend",
-        "abbreviation": "AL",
+        "id": "lol-tes",
+        "name": "TOP ESPORTS",
+        "nameZh": "TOP ESPORTS",
+        "abbreviation": "TES",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LPL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tes",
-        "name": "TOP ESPORTS",
-        "nameZh": "TOP ESPORTS",
-        "abbreviation": "TES",
+        "id": "lol-al",
+        "name": "Anyone's Legend",
+        "nameZh": "Anyone's Legend",
+        "abbreviation": "AL",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LPL",
@@ -12414,9 +12414,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-19T08:00:00Z",
       "venue": "LCK · 第 13 周 · BO3",
-      "status": "LIVE",
-      "homeScore": 1,
-      "awayScore": 0,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-gen",
         "name": "Gen.G Esports",
@@ -12480,9 +12480,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-19T10:00:00Z",
       "venue": "LCK · 第 13 周 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-bro",
         "name": "HANJIN BRION",
@@ -14591,35 +14591,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:22.265567+00:00"
+      "updatedAt": "2026-08-19T10:45:57.615965+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:22.934936+00:00"
+      "updatedAt": "2026-08-19T10:45:58.478551+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:28.627005+00:00"
+      "updatedAt": "2026-08-19T10:46:05.677303+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:29.010551+00:00"
+      "updatedAt": "2026-08-19T10:46:06.014989+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:29.206260+00:00"
+      "updatedAt": "2026-08-19T10:46:06.147475+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:29.507944+00:00"
+      "updatedAt": "2026-08-19T10:46:06.258439+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:29.700859+00:00"
+      "updatedAt": "2026-08-19T10:46:06.398523+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-19T08:54:29.889688+00:00"
+      "updatedAt": "2026-08-19T10:46:06.527017+00:00"
     }
   },
   "errors": []
