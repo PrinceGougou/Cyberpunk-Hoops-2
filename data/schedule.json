@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:47:15.407966+00:00",
+  "generatedAt": "2026-08-20T13:10:56.327687+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12449,7 +12449,7 @@
       "venue": "LPL · 第 5 周 · BO3",
       "status": "FINISHED",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-tt",
         "name": "THUNDER TALK GAMING",
@@ -12480,9 +12480,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-20T10:00:00Z",
       "venue": "LCK · 第 13 周 · BO3",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-krx",
         "name": "KIWOOM DRX",
@@ -14525,35 +14525,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:06.386430+00:00"
+      "updatedAt": "2026-08-20T13:10:48.780474+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:07.220851+00:00"
+      "updatedAt": "2026-08-20T13:10:49.391610+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:14.069395+00:00"
+      "updatedAt": "2026-08-20T13:10:55.824805+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:14.510352+00:00"
+      "updatedAt": "2026-08-20T13:10:55.963428+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:14.780069+00:00"
+      "updatedAt": "2026-08-20T13:10:56.057340+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:14.922748+00:00"
+      "updatedAt": "2026-08-20T13:10:56.158725+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:15.155760+00:00"
+      "updatedAt": "2026-08-20T13:10:56.262056+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-20T10:47:15.407234+00:00"
+      "updatedAt": "2026-08-20T13:10:56.326952+00:00"
     }
   },
   "errors": []
