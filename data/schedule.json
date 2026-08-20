@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:10:56.327687+00:00",
+  "generatedAt": "2026-08-20T14:54:45.090651+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12514,8 +12514,8 @@
       "startsAt": "2026-08-20T11:00:00Z",
       "venue": "LPL · 第 5 周 · BO3",
       "status": "FINISHED",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-lgd",
         "name": "LGD GAMING",
@@ -14525,35 +14525,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:48.780474+00:00"
+      "updatedAt": "2026-08-20T14:54:36.763187+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:49.391610+00:00"
+      "updatedAt": "2026-08-20T14:54:37.405536+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:55.824805+00:00"
+      "updatedAt": "2026-08-20T14:54:44.360869+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:55.963428+00:00"
+      "updatedAt": "2026-08-20T14:54:44.553429+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:56.057340+00:00"
+      "updatedAt": "2026-08-20T14:54:44.641933+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:56.158725+00:00"
+      "updatedAt": "2026-08-20T14:54:44.805040+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:56.262056+00:00"
+      "updatedAt": "2026-08-20T14:54:44.960377+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-20T13:10:56.326952+00:00"
+      "updatedAt": "2026-08-20T14:54:45.089873+00:00"
     }
   },
   "errors": []
