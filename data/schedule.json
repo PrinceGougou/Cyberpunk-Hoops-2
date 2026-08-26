@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:02:17.045929+00:00",
+  "generatedAt": "2026-08-26T10:51:53.451714+00:00",
   "matches": [
     {
       "id": "team-china-1108698",
@@ -12151,7 +12151,7 @@
       "startsAt": "2026-08-26T08:00:00Z",
       "venue": "LCK · 入围赛 · BO5",
       "status": "LIVE",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "homeTeam": {
         "id": "lol-bro",
@@ -14294,35 +14294,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:07.914180+00:00"
+      "updatedAt": "2026-08-26T10:51:44.856607+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:08.634516+00:00"
+      "updatedAt": "2026-08-26T10:51:45.516844+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:15.595115+00:00"
+      "updatedAt": "2026-08-26T10:51:51.792718+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:16.087109+00:00"
+      "updatedAt": "2026-08-26T10:51:52.192818+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:16.378991+00:00"
+      "updatedAt": "2026-08-26T10:51:52.502163+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:16.619138+00:00"
+      "updatedAt": "2026-08-26T10:51:52.802970+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:16.765179+00:00"
+      "updatedAt": "2026-08-26T10:51:53.127268+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-26T09:02:17.045213+00:00"
+      "updatedAt": "2026-08-26T10:51:53.451052+00:00"
     }
   },
   "errors": []
