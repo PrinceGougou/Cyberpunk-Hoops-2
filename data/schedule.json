@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-08-27T09:47:58.970364+00:00",
+  "generatedAt": "2026-08-27T20:30:07.139468+00:00",
   "matches": [
-    {
-      "id": "team-china-1108698",
-      "league": "TEAM_CHINA",
-      "startsAt": "2026-02-26T18:05:00+08:00",
-      "venue": "日本冲绳、菲律宾马尼拉 · 2026年男篮世界杯预选赛（第二窗口期） · B组 第1场",
-      "status": "FINISHED",
-      "homeScore": 80,
-      "awayScore": 87,
-      "homeTeam": {
-        "id": "team-china-510",
-        "name": "日本男篮",
-        "nameZh": "日本男篮",
-        "abbreviation": "日本男篮",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "TEAM_CHINA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "team-china-848",
-        "name": "中国男篮",
-        "nameZh": "中国男篮",
-        "abbreviation": "中国男篮",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "TEAM_CHINA",
-        "roster": []
-      },
-      "videoHighlightUrl": "",
-      "galleryUrl": "",
-      "broadcastProvider": "中国篮球协会官网",
-      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2656&seasonId=2162&competitionId=91&teamId=848&type=5"
-    },
-    {
-      "id": "team-china-1108699",
-      "league": "TEAM_CHINA",
-      "startsAt": "2026-03-01T16:00:00+08:00",
-      "venue": "日本冲绳、菲律宾马尼拉 · 2026年男篮世界杯预选赛（第二窗口期） · B组 第2场",
-      "status": "FINISHED",
-      "homeScore": 93,
-      "awayScore": 100,
-      "homeTeam": {
-        "id": "team-china-21451",
-        "name": "中国台北男篮",
-        "nameZh": "中国台北男篮",
-        "abbreviation": "中国台北",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "TEAM_CHINA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "team-china-848",
-        "name": "中国男篮",
-        "nameZh": "中国男篮",
-        "abbreviation": "中国男篮",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "TEAM_CHINA",
-        "roster": []
-      },
-      "videoHighlightUrl": "",
-      "galleryUrl": "",
-      "broadcastProvider": "中国篮球协会官网",
-      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2656&seasonId=2162&competitionId=91&teamId=848&type=5"
-    },
     {
       "id": "lol-115570888977308363",
       "league": "LOL_INTL",
@@ -12018,8 +11952,8 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-27T08:00:00Z",
       "venue": "LCK · 入围赛 · BO5",
-      "status": "LIVE",
-      "homeScore": 1,
+      "status": "FINISHED",
+      "homeScore": 3,
       "awayScore": 1,
       "homeTeam": {
         "id": "lol-bfx",
@@ -12088,20 +12022,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-bro",
+        "name": "HANJIN BRION",
+        "nameZh": "HANJIN BRION",
+        "abbreviation": "BRO",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-bro",
-        "name": "HANJIN BRION",
-        "nameZh": "HANJIN BRION",
-        "abbreviation": "BRO",
+        "id": "lol-bfx",
+        "name": "BNK FEARX",
+        "nameZh": "BNK FEARX",
+        "abbreviation": "BFX",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -14393,35 +14327,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:47.633422+00:00"
+      "updatedAt": "2026-08-27T20:30:01.772449+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:48.465747+00:00"
+      "updatedAt": "2026-08-27T20:30:02.358320+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:57.870387+00:00"
+      "updatedAt": "2026-08-27T20:30:06.484194+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:58.289668+00:00"
+      "updatedAt": "2026-08-27T20:30:06.718101+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:58.405422+00:00"
+      "updatedAt": "2026-08-27T20:30:06.834839+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:58.624904+00:00"
+      "updatedAt": "2026-08-27T20:30:06.938515+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:58.736758+00:00"
+      "updatedAt": "2026-08-27T20:30:07.044347+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-27T09:47:58.969604+00:00"
+      "updatedAt": "2026-08-27T20:30:07.138731+00:00"
     }
   },
   "errors": []
