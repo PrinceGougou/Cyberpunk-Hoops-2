@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T06:07:01.296610+00:00",
+  "generatedAt": "2026-08-28T18:41:51.411221+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11822,7 +11822,7 @@
       "venue": "LPL · 入围赛淘汰赛 · BO5",
       "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-edg",
         "name": "EDWARD GAMING",
@@ -11853,24 +11853,24 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-28T08:00:00Z",
       "venue": "LCK · 入围赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 2,
       "homeTeam": {
-        "id": "lol-bro",
-        "name": "HANJIN BRION",
-        "nameZh": "HANJIN BRION",
-        "abbreviation": "BRO",
+        "id": "lol-bfx",
+        "name": "BNK FEARX",
+        "nameZh": "BNK FEARX",
+        "abbreviation": "BFX",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-bfx",
-        "name": "BNK FEARX",
-        "nameZh": "BNK FEARX",
-        "abbreviation": "BFX",
+        "id": "lol-bro",
+        "name": "HANJIN BRION",
+        "nameZh": "HANJIN BRION",
+        "abbreviation": "BRO",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -11888,7 +11888,7 @@
       "venue": "LPL · 入围赛淘汰赛 · BO5",
       "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-tt",
         "name": "THUNDER TALK GAMING",
@@ -11923,20 +11923,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-t1",
+        "name": "T1",
+        "nameZh": "T1",
+        "abbreviation": "T1",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-bfx",
+        "name": "BNK FEARX",
+        "nameZh": "BNK FEARX",
+        "abbreviation": "BFX",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -11989,20 +11989,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-dk",
+        "name": "Dplus KIA",
+        "nameZh": "Dplus KIA",
+        "abbreviation": "DK",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-kt",
+        "name": "kt Rolster",
+        "nameZh": "kt Rolster",
+        "abbreviation": "KT",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -12065,10 +12065,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -12098,10 +12098,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -12659,10 +12659,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-nip",
+        "name": "Shenzhen NINJAS IN PYJAMAS",
+        "nameZh": "Shenzhen NINJAS IN PYJAMAS",
+        "abbreviation": "NIP",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LPL",
@@ -12725,10 +12725,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-ig",
+        "name": "Invictus Gaming",
+        "nameZh": "Invictus Gaming",
+        "abbreviation": "IG",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LPL",
@@ -14261,35 +14261,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:06:53.933994+00:00"
+      "updatedAt": "2026-08-28T18:41:44.113218+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:06:54.548739+00:00"
+      "updatedAt": "2026-08-28T18:41:44.944041+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:07:00.747692+00:00"
+      "updatedAt": "2026-08-28T18:41:49.906900+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:07:00.901545+00:00"
+      "updatedAt": "2026-08-28T18:41:50.444409+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:07:00.995890+00:00"
+      "updatedAt": "2026-08-28T18:41:50.728644+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:07:01.106944+00:00"
+      "updatedAt": "2026-08-28T18:41:51.065900+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:07:01.212544+00:00"
+      "updatedAt": "2026-08-28T18:41:51.234577+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-28T06:07:01.295902+00:00"
+      "updatedAt": "2026-08-28T18:41:51.410439+00:00"
     }
   },
   "errors": []
