@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:19:46.293301+00:00",
+  "generatedAt": "2026-08-30T08:18:34.619892+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11721,24 +11721,24 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-30T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-dk",
-        "name": "Dplus KIA",
-        "nameZh": "Dplus KIA",
-        "abbreviation": "DK",
+        "id": "lol-kt",
+        "name": "kt Rolster",
+        "nameZh": "kt Rolster",
+        "abbreviation": "KT",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-kt",
-        "name": "kt Rolster",
-        "nameZh": "kt Rolster",
-        "abbreviation": "KT",
+        "id": "lol-dk",
+        "name": "Dplus KIA",
+        "nameZh": "Dplus KIA",
+        "abbreviation": "DK",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -11754,9 +11754,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-08-30T09:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -14327,35 +14327,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:39.630508+00:00"
+      "updatedAt": "2026-08-30T08:18:27.322299+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:40.502500+00:00"
+      "updatedAt": "2026-08-30T08:18:28.153643+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:45.385798+00:00"
+      "updatedAt": "2026-08-30T08:18:33.608023+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:45.740528+00:00"
+      "updatedAt": "2026-08-30T08:18:33.840629+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:45.846008+00:00"
+      "updatedAt": "2026-08-30T08:18:33.979688+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:45.973551+00:00"
+      "updatedAt": "2026-08-30T08:18:34.240261+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:46.099608+00:00"
+      "updatedAt": "2026-08-30T08:18:34.373267+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-30T00:19:46.292219+00:00"
+      "updatedAt": "2026-08-30T08:18:34.619119+00:00"
     }
   },
   "errors": []
