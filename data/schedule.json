@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T08:18:34.619892+00:00",
+  "generatedAt": "2026-08-30T14:52:31.467252+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11721,8 +11721,8 @@
       "league": "LOL_LCK",
       "startsAt": "2026-08-30T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "LIVE",
-      "homeScore": 0,
+      "status": "FINISHED",
+      "homeScore": 3,
       "awayScore": 0,
       "homeTeam": {
         "id": "lol-kt",
@@ -11755,8 +11755,8 @@
       "startsAt": "2026-08-30T09:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
       "status": "FINISHED",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -11791,20 +11791,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-gen",
-        "name": "Gen.G Esports",
-        "nameZh": "Gen.G Esports",
-        "abbreviation": "GEN",
+        "id": "lol-kt",
+        "name": "kt Rolster",
+        "nameZh": "kt Rolster",
+        "abbreviation": "KT",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -11824,20 +11824,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-hle",
-        "name": "Hanwha Life Esports",
-        "nameZh": "Hanwha Life Esports",
-        "abbreviation": "HLE",
+        "id": "lol-t1",
+        "name": "T1",
+        "nameZh": "T1",
+        "abbreviation": "T1",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -11989,10 +11989,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-dk",
+        "name": "Dplus KIA",
+        "nameZh": "Dplus KIA",
+        "abbreviation": "DK",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
@@ -12022,10 +12022,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-we",
+        "name": "Xi'an Team WE",
+        "nameZh": "Xi'an Team WE",
+        "abbreviation": "WE",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LPL",
@@ -12451,10 +12451,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-jdg",
+        "name": "Beijing JDG Esports",
+        "nameZh": "Beijing JDG Esports",
+        "abbreviation": "JDG",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LPL",
@@ -14327,35 +14327,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:27.322299+00:00"
+      "updatedAt": "2026-08-30T14:52:24.038330+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:28.153643+00:00"
+      "updatedAt": "2026-08-30T14:52:24.865223+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:33.608023+00:00"
+      "updatedAt": "2026-08-30T14:52:30.567651+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:33.840629+00:00"
+      "updatedAt": "2026-08-30T14:52:30.836377+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:33.979688+00:00"
+      "updatedAt": "2026-08-30T14:52:31.086252+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:34.240261+00:00"
+      "updatedAt": "2026-08-30T14:52:31.224919+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:34.373267+00:00"
+      "updatedAt": "2026-08-30T14:52:31.342237+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-30T08:18:34.619119+00:00"
+      "updatedAt": "2026-08-30T14:52:31.466584+00:00"
     }
   },
   "errors": []
