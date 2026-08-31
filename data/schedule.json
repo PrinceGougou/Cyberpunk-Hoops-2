@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:04:33.053924+00:00",
+  "generatedAt": "2026-08-31T23:51:13.111506+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -12740,6 +12740,39 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10012600009"
     },
     {
+      "id": "nba-100000-10012600066",
+      "league": "NBA",
+      "startsAt": "2026-10-05T07:00:00+08:00",
+      "venue": "NBA季前赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-9",
+        "name": "勇士",
+        "nameZh": "勇士",
+        "abbreviation": "勇士",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-12",
+        "name": "快船",
+        "nameZh": "快船",
+        "abbreviation": "快船",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10012600066",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10012600066",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10012600066"
+    },
+    {
       "id": "nba-100000-10012600004",
       "league": "NBA",
       "startsAt": "2026-10-06T07:00:00+08:00",
@@ -14393,35 +14426,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:26.481616+00:00"
+      "updatedAt": "2026-08-31T23:51:06.529611+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:27.257311+00:00"
+      "updatedAt": "2026-08-31T23:51:07.247965+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:32.198636+00:00"
+      "updatedAt": "2026-08-31T23:51:11.685814+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:32.470869+00:00"
+      "updatedAt": "2026-08-31T23:51:12.069785+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:32.605781+00:00"
+      "updatedAt": "2026-08-31T23:51:12.359259+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:32.716275+00:00"
+      "updatedAt": "2026-08-31T23:51:12.612272+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:32.837397+00:00"
+      "updatedAt": "2026-08-31T23:51:12.870662+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-08-31T20:04:33.053165+00:00"
+      "updatedAt": "2026-08-31T23:51:13.110940+00:00"
     }
   },
   "errors": []
