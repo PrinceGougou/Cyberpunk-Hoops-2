@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:07:30.380060+00:00",
+  "generatedAt": "2026-09-01T11:39:10.522356+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -3456,6 +3456,39 @@
         "name": "澳大利亚男篮",
         "nameZh": "澳大利亚男篮",
         "abbreviation": "澳大利亚",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2732&seasonId=2210&competitionId=176&teamId=848&type=5"
+    },
+    {
+      "id": "team-china-1112399",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-06-22T19:30:00+08:00",
+      "venue": "浙江省杭州市 · 2026年中国男篮热身赛 · 热身赛 第2场",
+      "status": "FINISHED",
+      "homeScore": 78,
+      "awayScore": 69,
+      "homeTeam": {
+        "id": "team-china-492",
+        "name": "澳大利亚男篮",
+        "nameZh": "澳大利亚男篮",
+        "abbreviation": "澳大利亚",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22219",
+        "name": "荷兰男篮",
+        "nameZh": "荷兰男篮",
+        "abbreviation": "荷兰男篮",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "TEAM_CHINA",
@@ -11523,9 +11556,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-09-01T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-gen",
         "name": "Gen.G Esports",
@@ -12164,10 +12197,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -14393,35 +14426,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:24.821769+00:00"
+      "updatedAt": "2026-09-01T11:39:01.910421+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:25.459064+00:00"
+      "updatedAt": "2026-09-01T11:39:02.554346+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:29.675991+00:00"
+      "updatedAt": "2026-09-01T11:39:09.784391+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:29.952773+00:00"
+      "updatedAt": "2026-09-01T11:39:10.003219+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:30.057881+00:00"
+      "updatedAt": "2026-09-01T11:39:10.137424+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:30.139333+00:00"
+      "updatedAt": "2026-09-01T11:39:10.290193+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:30.258162+00:00"
+      "updatedAt": "2026-09-01T11:39:10.375842+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-01T05:07:30.379397+00:00"
+      "updatedAt": "2026-09-01T11:39:10.521586+00:00"
     }
   },
   "errors": []
