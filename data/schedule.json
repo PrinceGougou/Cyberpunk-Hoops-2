@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T00:14:07.991802+00:00",
+  "generatedAt": "2026-09-02T04:37:06.919514+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11556,9 +11556,9 @@
       "league": "CBA",
       "startsAt": "2026-09-02T11:00:00+08:00",
       "venue": "CBA夏季联赛青岛站B组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 69,
+      "awayScore": 66,
       "homeTeam": {
         "id": "cba-40308",
         "name": "辽宁本钢",
@@ -14756,35 +14756,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:02.432403+00:00"
+      "updatedAt": "2026-09-02T04:36:58.863343+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:03.075656+00:00"
+      "updatedAt": "2026-09-02T04:36:59.587759+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:07.318155+00:00"
+      "updatedAt": "2026-09-02T04:37:05.570421+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:07.533159+00:00"
+      "updatedAt": "2026-09-02T04:37:06.035369+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:07.688147+00:00"
+      "updatedAt": "2026-09-02T04:37:06.169883+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:07.806086+00:00"
+      "updatedAt": "2026-09-02T04:37:06.444498+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:07.891381+00:00"
+      "updatedAt": "2026-09-02T04:37:06.681509+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-02T00:14:07.991064+00:00"
+      "updatedAt": "2026-09-02T04:37:06.918760+00:00"
     }
   },
   "errors": []
