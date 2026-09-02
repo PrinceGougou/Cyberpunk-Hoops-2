@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:17:46.981700+00:00",
+  "generatedAt": "2026-09-02T16:34:37.885574+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -605,9 +605,9 @@
       "awayScore": 94,
       "homeTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "CBA",
@@ -945,9 +945,9 @@
       },
       "awayTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "CBA",
@@ -1232,9 +1232,9 @@
       "awayScore": 73,
       "homeTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "CBA",
@@ -1374,9 +1374,9 @@
       },
       "awayTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "CBA",
@@ -1572,9 +1572,9 @@
       },
       "awayTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "CBA",
@@ -1793,9 +1793,9 @@
       "awayScore": 81,
       "homeTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "CBA",
@@ -2057,9 +2057,9 @@
       "awayScore": 99,
       "homeTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "CBA",
@@ -11523,9 +11523,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-09-02T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 2,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-t1",
         "name": "T1",
@@ -11627,9 +11627,9 @@
       "awayScore": 82,
       "homeTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "CBA",
@@ -11655,9 +11655,9 @@
       "league": "CBA",
       "startsAt": "2026-09-02T20:00:00+08:00",
       "venue": "CBA夏季联赛青岛站A组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 84,
+      "awayScore": 59,
       "homeTeam": {
         "id": "cba-40320",
         "name": "青岛崂山啤酒",
@@ -11835,9 +11835,9 @@
       },
       "awayTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "CBA",
@@ -12023,9 +12023,9 @@
       "awayScore": null,
       "homeTeam": {
         "id": "cba-40319",
-        "name": "北京北汽",
-        "nameZh": "北京北汽",
-        "abbreviation": "北京北",
+        "name": "北京首钢",
+        "nameZh": "北京首钢",
+        "abbreviation": "北京首",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "CBA",
@@ -12121,10 +12121,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
@@ -14756,35 +14756,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:39.782135+00:00"
+      "updatedAt": "2026-09-02T16:34:32.468327+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:40.974859+00:00"
+      "updatedAt": "2026-09-02T16:34:33.052985+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:45.972980+00:00"
+      "updatedAt": "2026-09-02T16:34:37.146360+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:46.217035+00:00"
+      "updatedAt": "2026-09-02T16:34:37.408179+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:46.347517+00:00"
+      "updatedAt": "2026-09-02T16:34:37.535157+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:46.605661+00:00"
+      "updatedAt": "2026-09-02T16:34:37.665461+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:46.746354+00:00"
+      "updatedAt": "2026-09-02T16:34:37.774530+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-02T11:17:46.981019+00:00"
+      "updatedAt": "2026-09-02T16:34:37.885036+00:00"
     }
   },
   "errors": []
