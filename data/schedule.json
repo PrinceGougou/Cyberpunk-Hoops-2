@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:15:32.846496+00:00",
+  "generatedAt": "2026-09-03T04:37:18.266151+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11688,9 +11688,9 @@
       "league": "CBA",
       "startsAt": "2026-09-03T11:00:00+08:00",
       "venue": "CBA夏季联赛青岛站B组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 95,
+      "awayScore": 65,
       "homeTeam": {
         "id": "cba-40318",
         "name": "山东高速",
@@ -14690,35 +14690,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:25.348028+00:00"
+      "updatedAt": "2026-09-03T04:37:11.000943+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:26.182478+00:00"
+      "updatedAt": "2026-09-03T04:37:11.639061+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:31.579338+00:00"
+      "updatedAt": "2026-09-03T04:37:17.345473+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:31.964039+00:00"
+      "updatedAt": "2026-09-03T04:37:17.576351+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:32.243488+00:00"
+      "updatedAt": "2026-09-03T04:37:17.720615+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:32.469952+00:00"
+      "updatedAt": "2026-09-03T04:37:17.849564+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:32.614809+00:00"
+      "updatedAt": "2026-09-03T04:37:17.975998+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-03T00:15:32.845681+00:00"
+      "updatedAt": "2026-09-03T04:37:18.265492+00:00"
     }
   },
   "errors": []
