@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:45:08.672644+00:00",
+  "generatedAt": "2026-09-05T00:06:03.710287+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -429,138 +429,6 @@
       "galleryUrl": "",
       "broadcastProvider": "LoL Esports (Riot Games)",
       "sourceUrl": "https://lolesports.com/en-US/?leagues=first_stand"
-    },
-    {
-      "id": "nba-100000-10042500212",
-      "league": "NBA",
-      "startsAt": "2026-05-07T07:00:00+08:00",
-      "venue": "NBA季后赛东部半决赛G2",
-      "status": "FINISHED",
-      "homeScore": 102,
-      "awayScore": 108,
-      "homeTeam": {
-        "id": "nba-20",
-        "name": "76人",
-        "nameZh": "76人",
-        "abbreviation": "76人",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "NBA_EAST",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "nba-18",
-        "name": "尼克斯",
-        "nameZh": "尼克斯",
-        "abbreviation": "尼克斯",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "NBA_EAST",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500212",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500212",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500212"
-    },
-    {
-      "id": "nba-100000-10042500232",
-      "league": "NBA",
-      "startsAt": "2026-05-07T09:30:00+08:00",
-      "venue": "NBA季后赛西部半决赛G2",
-      "status": "FINISHED",
-      "homeScore": 95,
-      "awayScore": 133,
-      "homeTeam": {
-        "id": "nba-16",
-        "name": "森林狼",
-        "nameZh": "森林狼",
-        "abbreviation": "森林狼",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "NBA_WEST",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "nba-24",
-        "name": "马刺",
-        "nameZh": "马刺",
-        "abbreviation": "马刺",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "NBA_WEST",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500232",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500232",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500232"
-    },
-    {
-      "id": "cba-100008-100109613",
-      "league": "CBA",
-      "startsAt": "2026-05-07T19:35:00+08:00",
-      "venue": "CBA季后赛第二轮G1",
-      "status": "FINISHED",
-      "homeScore": 90,
-      "awayScore": 92,
-      "homeTeam": {
-        "id": "cba-40305",
-        "name": "浙江浙商证券",
-        "nameZh": "浙江浙商证券",
-        "abbreviation": "浙江浙",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "CBA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "cba-40317",
-        "name": "山西汾酒",
-        "nameZh": "山西汾酒",
-        "abbreviation": "山西汾",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "CBA",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100109613",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100109613",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100109613"
-    },
-    {
-      "id": "cba-100008-100109616",
-      "league": "CBA",
-      "startsAt": "2026-05-07T20:00:00+08:00",
-      "venue": "CBA季后赛第二轮G1",
-      "status": "FINISHED",
-      "homeScore": 108,
-      "awayScore": 95,
-      "homeTeam": {
-        "id": "cba-40314",
-        "name": "深圳马可波罗",
-        "nameZh": "深圳马可波罗",
-        "abbreviation": "深圳马",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "CBA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "cba-40312",
-        "name": "浙江稠州金租",
-        "nameZh": "浙江稠州金租",
-        "abbreviation": "浙江稠",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "CBA",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100109616",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100109616",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100109616"
     },
     {
       "id": "nba-100000-10042500202",
@@ -15680,35 +15548,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:01.764409+00:00"
+      "updatedAt": "2026-09-05T00:05:55.059416+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:02.597962+00:00"
+      "updatedAt": "2026-09-05T00:05:55.673299+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:07.888404+00:00"
+      "updatedAt": "2026-09-05T00:05:59.648871+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:08.182439+00:00"
+      "updatedAt": "2026-09-05T00:05:59.842166+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:08.295662+00:00"
+      "updatedAt": "2026-09-05T00:05:59.978429+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:08.419058+00:00"
+      "updatedAt": "2026-09-05T00:06:03.517141+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:08.547459+00:00"
+      "updatedAt": "2026-09-05T00:06:03.581083+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-04T20:45:08.671877+00:00"
+      "updatedAt": "2026-09-05T00:06:03.709638+00:00"
     }
   },
   "errors": []
