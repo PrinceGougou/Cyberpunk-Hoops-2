@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:28:36.772324+00:00",
+  "generatedAt": "2026-09-05T10:34:51.487668+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11754,9 +11754,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-09-05T06:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 2,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-ig",
         "name": "Invictus Gaming",
@@ -11787,24 +11787,24 @@
       "league": "LOL_LCK",
       "startsAt": "2026-09-05T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 1,
       "homeTeam": {
-        "id": "lol-gen",
-        "name": "Gen.G Esports",
-        "nameZh": "Gen.G Esports",
-        "abbreviation": "GEN",
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-hle",
-        "name": "Hanwha Life Esports",
-        "nameZh": "Hanwha Life Esports",
-        "abbreviation": "HLE",
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LCK",
@@ -11820,9 +11820,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-09-05T09:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-nip",
         "name": "Shenzhen NINJAS IN PYJAMAS",
@@ -11853,9 +11853,9 @@
       "league": "CBA",
       "startsAt": "2026-09-05T11:00:00+08:00",
       "venue": "CBA夏季联赛青岛站排位赛",
-      "status": "LIVE",
-      "homeScore": 69,
-      "awayScore": 69,
+      "status": "FINISHED",
+      "homeScore": 80,
+      "awayScore": 72,
       "homeTeam": {
         "id": "cba-40308",
         "name": "辽宁本钢",
@@ -11886,9 +11886,9 @@
       "league": "CBA",
       "startsAt": "2026-09-05T13:30:00+08:00",
       "venue": "CBA夏季联赛青岛站排位赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 76,
+      "awayScore": 82,
       "homeTeam": {
         "id": "cba-40316",
         "name": "天津先行者",
@@ -11919,9 +11919,9 @@
       "league": "CBA",
       "startsAt": "2026-09-05T17:30:00+08:00",
       "venue": "CBA夏季联赛青岛站排位赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 43,
+      "awayScore": 41,
       "homeTeam": {
         "id": "cba-40319",
         "name": "北京首钢",
@@ -15548,35 +15548,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:30.797351+00:00"
+      "updatedAt": "2026-09-05T10:34:43.819577+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:31.473339+00:00"
+      "updatedAt": "2026-09-05T10:34:44.553873+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:36.138248+00:00"
+      "updatedAt": "2026-09-05T10:34:50.294560+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:36.318365+00:00"
+      "updatedAt": "2026-09-05T10:34:50.621280+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:36.445389+00:00"
+      "updatedAt": "2026-09-05T10:34:50.848002+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:36.569320+00:00"
+      "updatedAt": "2026-09-05T10:34:51.084623+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:36.668912+00:00"
+      "updatedAt": "2026-09-05T10:34:51.241947+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-05T04:28:36.771611+00:00"
+      "updatedAt": "2026-09-05T10:34:51.486996+00:00"
     }
   },
   "errors": []
