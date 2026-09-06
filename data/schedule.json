@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:38:05.544755+00:00",
+  "generatedAt": "2026-09-06T10:55:48.896611+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11952,9 +11952,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-09-06T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-dk",
         "name": "Dplus KIA",
@@ -12018,9 +12018,9 @@
       "league": "CBA",
       "startsAt": "2026-09-06T11:00:00+08:00",
       "venue": "CBA夏季联赛青岛站七、八名",
-      "status": "LIVE",
-      "homeScore": 77,
-      "awayScore": 72,
+      "status": "FINISHED",
+      "homeScore": 83,
+      "awayScore": 75,
       "homeTeam": {
         "id": "cba-40316",
         "name": "天津先行者",
@@ -12051,9 +12051,9 @@
       "league": "CBA",
       "startsAt": "2026-09-06T13:30:00+08:00",
       "venue": "CBA夏季联赛青岛站五、六名",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 66,
+      "awayScore": 72,
       "homeTeam": {
         "id": "cba-40307",
         "name": "福建晋江文旅",
@@ -12084,9 +12084,9 @@
       "league": "CBA",
       "startsAt": "2026-09-06T17:30:00+08:00",
       "venue": "CBA夏季联赛青岛站三、四名",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 75,
+      "awayScore": 71,
       "homeTeam": {
         "id": "cba-40318",
         "name": "山东高速",
@@ -12197,10 +12197,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-ig",
+        "name": "Invictus Gaming",
+        "nameZh": "Invictus Gaming",
+        "abbreviation": "IG",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_LPL",
@@ -15713,35 +15713,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:37:59.645460+00:00"
+      "updatedAt": "2026-09-06T10:55:41.011125+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:00.546586+00:00"
+      "updatedAt": "2026-09-06T10:55:41.848923+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:04.684518+00:00"
+      "updatedAt": "2026-09-06T10:55:47.430742+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:05.021520+00:00"
+      "updatedAt": "2026-09-06T10:55:47.907075+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:05.168550+00:00"
+      "updatedAt": "2026-09-06T10:55:48.144351+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:05.295937+00:00"
+      "updatedAt": "2026-09-06T10:55:48.401036+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:05.439565+00:00"
+      "updatedAt": "2026-09-06T10:55:48.649565+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-06T04:38:05.544209+00:00"
+      "updatedAt": "2026-09-06T10:55:48.895873+00:00"
     }
   },
   "errors": []
