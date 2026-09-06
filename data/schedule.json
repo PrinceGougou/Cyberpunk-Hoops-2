@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:55:48.896611+00:00",
+  "generatedAt": "2026-09-06T15:28:08.658491+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11919,9 +11919,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-09-06T06:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-we",
         "name": "Xi'an Team WE",
@@ -11952,9 +11952,9 @@
       "league": "LOL_LCK",
       "startsAt": "2026-09-06T08:00:00Z",
       "venue": "LCK · 淘汰赛 · BO5",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-dk",
         "name": "Dplus KIA",
@@ -11985,9 +11985,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-09-06T09:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 3,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-lgd",
         "name": "LGD GAMING",
@@ -12084,9 +12084,9 @@
       "league": "CBA",
       "startsAt": "2026-09-06T17:30:00+08:00",
       "venue": "CBA夏季联赛青岛站三、四名",
-      "status": "LIVE",
-      "homeScore": 75,
-      "awayScore": 71,
+      "status": "FINISHED",
+      "homeScore": 86,
+      "awayScore": 80,
       "homeTeam": {
         "id": "cba-40318",
         "name": "山东高速",
@@ -12117,9 +12117,9 @@
       "league": "CBA",
       "startsAt": "2026-09-06T20:00:00+08:00",
       "venue": "CBA夏季联赛青岛站决赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 78,
+      "awayScore": 83,
       "homeTeam": {
         "id": "cba-40320",
         "name": "青岛崂山啤酒",
@@ -12187,10 +12187,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-lgd",
+        "name": "LGD GAMING",
+        "nameZh": "LGD GAMING",
+        "abbreviation": "LGD",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LPL",
@@ -12220,10 +12220,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-t1",
+        "name": "T1",
+        "nameZh": "T1",
+        "abbreviation": "T1",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LCK",
@@ -15713,35 +15713,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:41.011125+00:00"
+      "updatedAt": "2026-09-06T15:27:57.413140+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:41.848923+00:00"
+      "updatedAt": "2026-09-06T15:27:58.161971+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:47.430742+00:00"
+      "updatedAt": "2026-09-06T15:28:07.364683+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:47.907075+00:00"
+      "updatedAt": "2026-09-06T15:28:07.643879+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:48.144351+00:00"
+      "updatedAt": "2026-09-06T15:28:07.903291+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:48.401036+00:00"
+      "updatedAt": "2026-09-06T15:28:08.168633+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:48.649565+00:00"
+      "updatedAt": "2026-09-06T15:28:08.360175+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-06T10:55:48.895873+00:00"
+      "updatedAt": "2026-09-06T15:28:08.657746+00:00"
     }
   },
   "errors": []
