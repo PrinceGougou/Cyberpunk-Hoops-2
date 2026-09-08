@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T11:18:23.682972+00:00",
+  "generatedAt": "2026-09-08T16:38:00.267051+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11921,7 +11921,7 @@
       "venue": "LPL · 淘汰赛 · BO5",
       "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-lgd",
         "name": "LGD GAMING",
@@ -11989,10 +11989,10 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-ig",
+        "name": "Invictus Gaming",
+        "nameZh": "Invictus Gaming",
+        "abbreviation": "IG",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_LPL",
@@ -15878,35 +15878,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:16.795505+00:00"
+      "updatedAt": "2026-09-08T16:37:52.665784+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:17.629365+00:00"
+      "updatedAt": "2026-09-08T16:37:53.455652+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:22.531422+00:00"
+      "updatedAt": "2026-09-08T16:37:58.899707+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:22.799159+00:00"
+      "updatedAt": "2026-09-08T16:37:59.392683+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:23.019171+00:00"
+      "updatedAt": "2026-09-08T16:37:59.602635+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:23.303687+00:00"
+      "updatedAt": "2026-09-08T16:37:59.871858+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:23.434616+00:00"
+      "updatedAt": "2026-09-08T16:38:00.068598+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-08T11:18:23.682377+00:00"
+      "updatedAt": "2026-09-08T16:38:00.266328+00:00"
     }
   },
   "errors": []
