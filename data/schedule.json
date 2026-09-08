@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:35:12.687736+00:00",
+  "generatedAt": "2026-09-08T11:18:23.682972+00:00",
   "matches": [
     {
       "id": "lol-115570888977308363",
@@ -11919,9 +11919,9 @@
       "league": "LOL_LPL",
       "startsAt": "2026-09-08T09:00:00Z",
       "venue": "LPL · 淘汰赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 2,
       "homeTeam": {
         "id": "lol-lgd",
         "name": "LGD GAMING",
@@ -13172,7 +13172,7 @@
       "id": "cba-100008-100110433",
       "league": "CBA",
       "startsAt": "2026-10-09T19:30:00+08:00",
-      "venue": "CBA季后赛",
+      "venue": "CBA季前赛汕头站",
       "status": "UPCOMING",
       "homeScore": null,
       "awayScore": null,
@@ -15878,35 +15878,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:05.445598+00:00"
+      "updatedAt": "2026-09-08T11:18:16.795505+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:06.174249+00:00"
+      "updatedAt": "2026-09-08T11:18:17.629365+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:11.310129+00:00"
+      "updatedAt": "2026-09-08T11:18:22.531422+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:11.761822+00:00"
+      "updatedAt": "2026-09-08T11:18:22.799159+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:12.035522+00:00"
+      "updatedAt": "2026-09-08T11:18:23.019171+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:12.275756+00:00"
+      "updatedAt": "2026-09-08T11:18:23.303687+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:12.431418+00:00"
+      "updatedAt": "2026-09-08T11:18:23.434616+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-08T04:35:12.686984+00:00"
+      "updatedAt": "2026-09-08T11:18:23.682377+00:00"
     }
   },
   "errors": []
