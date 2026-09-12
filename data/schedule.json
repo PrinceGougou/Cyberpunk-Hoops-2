@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-09-12T15:31:13.307447+00:00",
+  "generatedAt": "2026-09-12T18:23:15.456774+00:00",
   "matches": [
-    {
-      "id": "lol-115570888977308369",
-      "league": "LOL_INTL",
-      "startsAt": "2026-03-16T18:00:00Z",
-      "venue": "First Stand · 小组赛 · BO5",
-      "status": "FINISHED",
-      "homeScore": 0,
-      "awayScore": 3,
-      "homeTeam": {
-        "id": "lol-tsw",
-        "name": "Team Secret Whales",
-        "nameZh": "Team Secret Whales",
-        "abbreviation": "TSW",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-g2",
-        "name": "G2 Esports",
-        "nameZh": "G2 Esports",
-        "abbreviation": "G2",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=first_stand"
-    },
     {
       "id": "lol-115570888977308393",
       "league": "LOL_INTL",
@@ -16802,35 +16769,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:07.460065+00:00"
+      "updatedAt": "2026-09-12T18:23:08.810607+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:08.198787+00:00"
+      "updatedAt": "2026-09-12T18:23:09.596272+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:12.207131+00:00"
+      "updatedAt": "2026-09-12T18:23:14.293514+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:12.495344+00:00"
+      "updatedAt": "2026-09-12T18:23:14.450918+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:12.655595+00:00"
+      "updatedAt": "2026-09-12T18:23:14.709269+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:12.803852+00:00"
+      "updatedAt": "2026-09-12T18:23:14.967839+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:13.042590+00:00"
+      "updatedAt": "2026-09-12T18:23:15.178875+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-12T15:31:13.306855+00:00"
+      "updatedAt": "2026-09-12T18:23:15.456075+00:00"
     }
   },
   "errors": []
