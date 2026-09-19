@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:30:01.176057+00:00",
+  "generatedAt": "2026-09-19T17:17:01.695051+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -11063,7 +11063,7 @@
       "venue": "LPL · 赛区资格赛 · BO5",
       "status": "FINISHED",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeTeam": {
         "id": "lol-jdg",
         "name": "Beijing JDG Esports",
@@ -20465,35 +20465,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:29:45.271110+00:00"
+      "updatedAt": "2026-09-19T17:16:53.753987+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:29:46.225218+00:00"
+      "updatedAt": "2026-09-19T17:16:54.671280+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:30:00.173233+00:00"
+      "updatedAt": "2026-09-19T17:17:00.574784+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:30:00.388707+00:00"
+      "updatedAt": "2026-09-19T17:17:00.971211+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:30:00.506436+00:00"
+      "updatedAt": "2026-09-19T17:17:01.132931+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:30:00.777895+00:00"
+      "updatedAt": "2026-09-19T17:17:01.417243+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:30:01.045157+00:00"
+      "updatedAt": "2026-09-19T17:17:01.539169+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-19T12:30:01.175686+00:00"
+      "updatedAt": "2026-09-19T17:17:01.694694+00:00"
     }
   },
   "errors": []
