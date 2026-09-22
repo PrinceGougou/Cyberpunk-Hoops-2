@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:37:43.197355+00:00",
+  "generatedAt": "2026-09-22T16:57:25.413987+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -11802,8 +11802,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -12320,8 +12320,8 @@
       "awayScore": null,
       "homeTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
@@ -12726,8 +12726,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -14366,8 +14366,8 @@
       "awayScore": null,
       "homeTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
@@ -14574,8 +14574,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -15597,8 +15597,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -16587,8 +16587,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -17237,8 +17237,8 @@
       "awayScore": null,
       "homeTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
@@ -18293,8 +18293,8 @@
       "awayScore": null,
       "homeTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
@@ -19128,8 +19128,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -20052,8 +20052,8 @@
       },
       "awayTeam": {
         "id": "cba-40315",
-        "name": "广州智都",
-        "nameZh": "广州智都",
+        "name": "广州智都集团",
+        "nameZh": "广州智都集团",
         "abbreviation": "广州智",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
@@ -20828,35 +20828,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:38.347027+00:00"
+      "updatedAt": "2026-09-22T16:57:18.490142+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:39.061127+00:00"
+      "updatedAt": "2026-09-22T16:57:19.318699+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:42.586656+00:00"
+      "updatedAt": "2026-09-22T16:57:24.113301+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:42.779283+00:00"
+      "updatedAt": "2026-09-22T16:57:24.543242+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:42.880821+00:00"
+      "updatedAt": "2026-09-22T16:57:24.794760+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:43.003593+00:00"
+      "updatedAt": "2026-09-22T16:57:25.058013+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:43.117027+00:00"
+      "updatedAt": "2026-09-22T16:57:25.187169+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-09-22T11:37:43.196973+00:00"
+      "updatedAt": "2026-09-22T16:57:25.413584+00:00"
     }
   },
   "errors": []
