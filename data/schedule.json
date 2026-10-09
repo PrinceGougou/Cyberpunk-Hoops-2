@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:22:25.314973+00:00",
+  "generatedAt": "2026-10-09T09:03:43.553083+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -11061,9 +11061,9 @@
       "league": "NBA",
       "startsAt": "2026-10-09T07:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "LIVE",
-      "homeScore": 71,
-      "awayScore": 62,
+      "status": "FINISHED",
+      "homeScore": 124,
+      "awayScore": 113,
       "homeTeam": {
         "id": "nba-2",
         "name": "凯尔特人",
@@ -11094,9 +11094,9 @@
       "league": "NBA",
       "startsAt": "2026-10-09T07:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "LIVE",
-      "homeScore": 41,
-      "awayScore": 39,
+      "status": "FINISHED",
+      "homeScore": 118,
+      "awayScore": 128,
       "homeTeam": {
         "id": "nba-3",
         "name": "鹈鹕",
@@ -11127,9 +11127,9 @@
       "league": "NBA",
       "startsAt": "2026-10-09T07:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "LIVE",
-      "homeScore": 37,
-      "awayScore": 36,
+      "status": "FINISHED",
+      "homeScore": 108,
+      "awayScore": 114,
       "homeTeam": {
         "id": "nba-20",
         "name": "76人",
@@ -11160,9 +11160,9 @@
       "league": "NBA",
       "startsAt": "2026-10-09T07:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "LIVE",
-      "homeScore": 35,
-      "awayScore": 35,
+      "status": "FINISHED",
+      "homeScore": 111,
+      "awayScore": 109,
       "homeTeam": {
         "id": "nba-27",
         "name": "奇才",
@@ -11193,9 +11193,9 @@
       "league": "NBA",
       "startsAt": "2026-10-09T08:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "LIVE",
-      "homeScore": 9,
-      "awayScore": 14,
+      "status": "FINISHED",
+      "homeScore": 123,
+      "awayScore": 116,
       "homeTeam": {
         "id": "nba-1",
         "name": "老鹰",
@@ -11226,9 +11226,9 @@
       "league": "NBA",
       "startsAt": "2026-10-09T10:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 110,
+      "awayScore": 114,
       "homeTeam": {
         "id": "nba-23",
         "name": "国王",
@@ -11259,9 +11259,9 @@
       "league": "CBA",
       "startsAt": "2026-10-09T15:00:00+08:00",
       "venue": "CBA季前赛新昌站",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 93,
+      "awayScore": 101,
       "homeTeam": {
         "id": "cba-40311",
         "name": "长白山恩都里",
@@ -11292,9 +11292,9 @@
       "league": "CBA",
       "startsAt": "2026-10-09T15:00:00+08:00",
       "venue": "CBA季前赛吉安站",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 104,
+      "awayScore": 92,
       "homeTeam": {
         "id": "cba-40312",
         "name": "浙江稠州金租",
@@ -11325,9 +11325,9 @@
       "league": "CBA",
       "startsAt": "2026-10-09T15:00:00+08:00",
       "venue": "CBA季前赛长沙站",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 100,
+      "awayScore": 78,
       "homeTeam": {
         "id": "cba-40323",
         "name": "北京控股",
@@ -11358,9 +11358,9 @@
       "league": "CBA",
       "startsAt": "2026-10-09T15:00:00+08:00",
       "venue": "CBA季前赛汕头站",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 89,
+      "awayScore": 79,
       "homeTeam": {
         "id": "cba-40316",
         "name": "天津先行者",
@@ -11391,9 +11391,9 @@
       "league": "CBA",
       "startsAt": "2026-10-09T15:00:00+08:00",
       "venue": "CBA季前赛高县站",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 82,
+      "awayScore": 83,
       "homeTeam": {
         "id": "cba-40307",
         "name": "福建晋江文旅",
@@ -14456,39 +14456,6 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110783"
     },
     {
-      "id": "cba-100008-100110801",
-      "league": "CBA",
-      "startsAt": "2026-10-20T19:35:00+08:00",
-      "venue": "CBA常规赛第2轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "cba-40312",
-        "name": "浙江稠州金租",
-        "nameZh": "浙江稠州金租",
-        "abbreviation": "浙江稠",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "CBA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "cba-40318",
-        "name": "山东高速",
-        "nameZh": "山东高速",
-        "abbreviation": "山东高",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "CBA",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110801",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110801",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110801"
-    },
-    {
       "id": "cba-100008-100110787",
       "league": "CBA",
       "startsAt": "2026-10-20T20:00:00+08:00",
@@ -14652,6 +14619,39 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110794",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110794"
+    },
+    {
+      "id": "cba-100008-100110801",
+      "league": "CBA",
+      "startsAt": "2026-10-21T19:35:00+08:00",
+      "venue": "CBA常规赛第2轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40312",
+        "name": "浙江稠州金租",
+        "nameZh": "浙江稠州金租",
+        "abbreviation": "浙江稠",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40318",
+        "name": "山东高速",
+        "nameZh": "山东高速",
+        "abbreviation": "山东高",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110801",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110801",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110801"
     },
     {
       "id": "nba-100000-10022600085",
@@ -25844,35 +25844,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:18.230885+00:00"
+      "updatedAt": "2026-10-09T09:03:35.780638+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:19.158816+00:00"
+      "updatedAt": "2026-10-09T09:03:36.513800+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:24.007133+00:00"
+      "updatedAt": "2026-10-09T09:03:42.930711+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:24.370821+00:00"
+      "updatedAt": "2026-10-09T09:03:43.104248+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:24.649077+00:00"
+      "updatedAt": "2026-10-09T09:03:43.225826+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:24.885377+00:00"
+      "updatedAt": "2026-10-09T09:03:43.352010+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:25.037766+00:00"
+      "updatedAt": "2026-10-09T09:03:43.469481+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-09T00:22:25.314569+00:00"
+      "updatedAt": "2026-10-09T09:03:43.552840+00:00"
     }
   },
   "errors": []
