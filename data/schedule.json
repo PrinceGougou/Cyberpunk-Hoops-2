@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:35:11.684677+00:00",
+  "generatedAt": "2026-10-10T23:33:21.398904+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -11952,9 +11952,9 @@
       "league": "NBA",
       "startsAt": "2026-10-11T06:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 37,
+      "awayScore": 44,
       "homeTeam": {
         "id": "nba-12",
         "name": "快船",
@@ -11985,9 +11985,9 @@
       "league": "NBA",
       "startsAt": "2026-10-11T07:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 22,
+      "awayScore": 27,
       "homeTeam": {
         "id": "nba-1",
         "name": "老鹰",
@@ -12018,9 +12018,9 @@
       "league": "NBA",
       "startsAt": "2026-10-11T07:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 16,
+      "awayScore": 23,
       "homeTeam": {
         "id": "nba-8",
         "name": "活塞",
@@ -13210,20 +13210,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-fur",
+        "name": "FURIA",
+        "nameZh": "FURIA",
+        "abbreviation": "FUR",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-mvk",
+        "name": "MVK Esports",
+        "nameZh": "MVK Esports",
+        "abbreviation": "MVK",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -13243,20 +13243,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-c9",
+        "name": "Cloud9 Kia",
+        "nameZh": "Cloud9 Kia",
+        "abbreviation": "C9",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-kc",
+        "name": "Karmine Corp",
+        "nameZh": "Karmine Corp",
+        "abbreviation": "KC",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -26141,35 +26141,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:05.908134+00:00"
+      "updatedAt": "2026-10-10T23:33:15.535495+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:06.649728+00:00"
+      "updatedAt": "2026-10-10T23:33:16.277538+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:10.862607+00:00"
+      "updatedAt": "2026-10-10T23:33:20.655810+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:11.095859+00:00"
+      "updatedAt": "2026-10-10T23:33:20.880743+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:11.244487+00:00"
+      "updatedAt": "2026-10-10T23:33:21.031621+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:11.386327+00:00"
+      "updatedAt": "2026-10-10T23:33:21.112126+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:11.534012+00:00"
+      "updatedAt": "2026-10-10T23:33:21.253622+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-10T18:35:11.684272+00:00"
+      "updatedAt": "2026-10-10T23:33:21.398499+00:00"
     }
   },
   "errors": []
