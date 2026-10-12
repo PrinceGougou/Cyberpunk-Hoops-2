@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:24:06.638543+00:00",
+  "generatedAt": "2026-10-12T22:58:53.203777+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -12645,9 +12645,9 @@
       "league": "NBA",
       "startsAt": "2026-10-13T04:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 66,
+      "awayScore": 119,
       "homeTeam": {
         "id": "nba-2022272",
         "name": "伦敦雄狮",
@@ -13202,42 +13202,9 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10012600064"
     },
     {
-      "id": "lol-115660588583040710",
-      "league": "LOL_INTL",
-      "startsAt": "2026-10-15T18:00:00Z",
-      "venue": "Worlds · 入围赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "lol-fur",
-        "name": "FURIA",
-        "nameZh": "FURIA",
-        "abbreviation": "FUR",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-mvk",
-        "name": "MVK Esports",
-        "nameZh": "MVK Esports",
-        "abbreviation": "MVK",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
-    },
-    {
       "id": "lol-115660588583171786",
       "league": "LOL_INTL",
-      "startsAt": "2026-10-15T23:00:00Z",
+      "startsAt": "2026-10-15T18:00:00Z",
       "venue": "Worlds · 入围赛 · BO5",
       "status": "UPCOMING",
       "homeScore": null,
@@ -13257,6 +13224,39 @@
         "name": "Karmine Corp",
         "nameZh": "Karmine Corp",
         "abbreviation": "KC",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://live.bilibili.com/lol",
+      "galleryUrl": "",
+      "broadcastProvider": "LoL Esports (Riot Games)",
+      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
+    },
+    {
+      "id": "lol-115660588583040710",
+      "league": "LOL_INTL",
+      "startsAt": "2026-10-15T23:00:00Z",
+      "venue": "Worlds · 入围赛 · BO5",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "lol-fur",
+        "name": "FURIA",
+        "nameZh": "FURIA",
+        "abbreviation": "FUR",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "lol-mvk",
+        "name": "MVK Esports",
+        "nameZh": "MVK Esports",
+        "abbreviation": "MVK",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -26537,35 +26537,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:23:56.095838+00:00"
+      "updatedAt": "2026-10-12T22:58:47.790093+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:23:57.027776+00:00"
+      "updatedAt": "2026-10-12T22:58:48.469502+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:24:05.570667+00:00"
+      "updatedAt": "2026-10-12T22:58:52.461947+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:24:05.850703+00:00"
+      "updatedAt": "2026-10-12T22:58:52.711485+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:24:06.070982+00:00"
+      "updatedAt": "2026-10-12T22:58:52.856355+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:24:06.294399+00:00"
+      "updatedAt": "2026-10-12T22:58:52.977323+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:24:06.536452+00:00"
+      "updatedAt": "2026-10-12T22:58:53.088827+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-12T15:24:06.638129+00:00"
+      "updatedAt": "2026-10-12T22:58:53.203250+00:00"
     }
   },
   "errors": []
