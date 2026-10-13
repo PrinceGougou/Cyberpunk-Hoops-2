@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:58:53.203777+00:00",
+  "generatedAt": "2026-10-13T06:46:46.773850+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -957,39 +957,6 @@
       "galleryUrl": "",
       "broadcastProvider": "LoL Esports (Riot Games)",
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
-    {
-      "id": "nba-100000-10042500405",
-      "league": "NBA",
-      "startsAt": "2026-06-14T08:30:00+08:00",
-      "venue": "NBA总决赛G5",
-      "status": "FINISHED",
-      "homeScore": 94,
-      "awayScore": 90,
-      "homeTeam": {
-        "id": "nba-18",
-        "name": "尼克斯",
-        "nameZh": "尼克斯",
-        "abbreviation": "尼克斯",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "NBA_EAST",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "nba-24",
-        "name": "马刺",
-        "nameZh": "马刺",
-        "abbreviation": "马刺",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "NBA_WEST",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500405",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500405",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10042500405"
     },
     {
       "id": "team-china-1112398",
@@ -12678,9 +12645,9 @@
       "league": "NBA",
       "startsAt": "2026-10-13T07:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 110,
+      "awayScore": 113,
       "homeTeam": {
         "id": "nba-25",
         "name": "雷霆",
@@ -12711,9 +12678,9 @@
       "league": "NBA",
       "startsAt": "2026-10-13T07:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 131,
+      "awayScore": 122,
       "homeTeam": {
         "id": "nba-17",
         "name": "篮网",
@@ -12744,9 +12711,9 @@
       "league": "NBA",
       "startsAt": "2026-10-13T07:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 122,
+      "awayScore": 104,
       "homeTeam": {
         "id": "nba-16",
         "name": "森林狼",
@@ -12777,9 +12744,9 @@
       "league": "NBA",
       "startsAt": "2026-10-13T09:00:00+08:00",
       "venue": "NBA季前赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 109,
+      "awayScore": 119,
       "homeTeam": {
         "id": "nba-24",
         "name": "马刺",
@@ -26537,35 +26504,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:47.790093+00:00"
+      "updatedAt": "2026-10-13T06:46:39.631587+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:48.469502+00:00"
+      "updatedAt": "2026-10-13T06:46:40.566944+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:52.461947+00:00"
+      "updatedAt": "2026-10-13T06:46:45.681470+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:52.711485+00:00"
+      "updatedAt": "2026-10-13T06:46:45.995805+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:52.856355+00:00"
+      "updatedAt": "2026-10-13T06:46:46.131076+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:52.977323+00:00"
+      "updatedAt": "2026-10-13T06:46:46.275728+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:53.088827+00:00"
+      "updatedAt": "2026-10-13T06:46:46.508916+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-12T22:58:53.203250+00:00"
+      "updatedAt": "2026-10-13T06:46:46.773445+00:00"
     }
   },
   "errors": []
