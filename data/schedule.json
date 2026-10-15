@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:37:58.851615+00:00",
+  "generatedAt": "2026-10-15T11:28:06.928451+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -13140,9 +13140,9 @@
       "league": "NBA",
       "startsAt": "2026-10-15T10:30:00+08:00",
       "venue": "NBA季前赛",
-      "status": "LIVE",
-      "homeScore": 87,
-      "awayScore": 100,
+      "status": "FINISHED",
+      "homeScore": 110,
+      "awayScore": 122,
       "homeTeam": {
         "id": "nba-7",
         "name": "掘金",
@@ -27032,35 +27032,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:52.830730+00:00"
+      "updatedAt": "2026-10-15T11:28:01.067570+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:53.530260+00:00"
+      "updatedAt": "2026-10-15T11:28:01.766213+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:58.297904+00:00"
+      "updatedAt": "2026-10-15T11:28:06.376396+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:58.424421+00:00"
+      "updatedAt": "2026-10-15T11:28:06.552545+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:58.517545+00:00"
+      "updatedAt": "2026-10-15T11:28:06.658326+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:58.604389+00:00"
+      "updatedAt": "2026-10-15T11:28:06.720924+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:58.729418+00:00"
+      "updatedAt": "2026-10-15T11:28:06.807006+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-15T04:37:58.851268+00:00"
+      "updatedAt": "2026-10-15T11:28:06.927968+00:00"
     }
   },
   "errors": []
