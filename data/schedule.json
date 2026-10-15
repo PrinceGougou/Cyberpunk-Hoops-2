@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:00:02.851983+00:00",
+  "generatedAt": "2026-10-15T21:22:22.328892+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -13173,24 +13173,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-15T18:00:00Z",
       "venue": "Worlds · 入围赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 2,
       "homeTeam": {
-        "id": "lol-c9",
-        "name": "Cloud9 Kia",
-        "nameZh": "Cloud9 Kia",
-        "abbreviation": "C9",
+        "id": "lol-kc",
+        "name": "Karmine Corp",
+        "nameZh": "Karmine Corp",
+        "abbreviation": "KC",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-kc",
-        "name": "Karmine Corp",
-        "nameZh": "Karmine Corp",
-        "abbreviation": "KC",
+        "id": "lol-c9",
+        "name": "Cloud9 Kia",
+        "nameZh": "Cloud9 Kia",
+        "abbreviation": "C9",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -21122,6 +21122,39 @@
       "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
     },
     {
+      "id": "lol-115660540726095103",
+      "league": "LOL_INTL",
+      "startsAt": "2026-11-04T22:00:00Z",
+      "venue": "Worlds · 四分之一决赛 · BO5",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "lol-tbd",
+        "name": "TBD",
+        "nameZh": "TBD",
+        "abbreviation": "TBD",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "lol-tbd",
+        "name": "TBD",
+        "nameZh": "TBD",
+        "abbreviation": "TBD",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://live.bilibili.com/lol",
+      "galleryUrl": "",
+      "broadcastProvider": "LoL Esports (Riot Games)",
+      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
+    },
+    {
       "id": "nba-100000-10022600173",
       "league": "NBA",
       "startsAt": "2026-11-05T08:00:00+08:00",
@@ -27032,35 +27065,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-15T16:59:57.522435+00:00"
+      "updatedAt": "2026-10-15T21:22:16.927028+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-15T16:59:58.260517+00:00"
+      "updatedAt": "2026-10-15T21:22:17.634302+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-15T17:00:02.369578+00:00"
+      "updatedAt": "2026-10-15T21:22:21.672069+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-15T17:00:02.510636+00:00"
+      "updatedAt": "2026-10-15T21:22:21.909006+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-15T17:00:02.616183+00:00"
+      "updatedAt": "2026-10-15T21:22:22.007766+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-15T17:00:02.721383+00:00"
+      "updatedAt": "2026-10-15T21:22:22.118079+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-15T17:00:02.785229+00:00"
+      "updatedAt": "2026-10-15T21:22:22.213767+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-15T17:00:02.851708+00:00"
+      "updatedAt": "2026-10-15T21:22:22.328417+00:00"
     }
   },
   "errors": []
