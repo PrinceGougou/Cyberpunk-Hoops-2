@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:08:49.012914+00:00",
+  "generatedAt": "2026-10-16T13:15:12.400591+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -13240,8 +13240,8 @@
       "startsAt": "2026-10-16T07:30:00+08:00",
       "venue": "NBA季前赛",
       "status": "FINISHED",
-      "homeScore": 120,
-      "awayScore": 122,
+      "homeScore": 117,
+      "awayScore": 119,
       "homeTeam": {
         "id": "nba-28",
         "name": "猛龙",
@@ -13274,7 +13274,7 @@
       "venue": "NBA季前赛",
       "status": "FINISHED",
       "homeScore": 89,
-      "awayScore": 116,
+      "awayScore": 113,
       "homeTeam": {
         "id": "nba-25",
         "name": "雷霆",
@@ -13338,9 +13338,9 @@
       "league": "CBA",
       "startsAt": "2026-10-16T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 102,
+      "awayScore": 68,
       "homeTeam": {
         "id": "cba-40309",
         "name": "上海久事",
@@ -27428,35 +27428,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:42.271215+00:00"
+      "updatedAt": "2026-10-16T13:15:02.757809+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:43.091232+00:00"
+      "updatedAt": "2026-10-16T13:15:03.678066+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:47.712919+00:00"
+      "updatedAt": "2026-10-16T13:15:11.180872+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:48.060141+00:00"
+      "updatedAt": "2026-10-16T13:15:11.488261+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:48.303066+00:00"
+      "updatedAt": "2026-10-16T13:15:11.710327+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:48.531366+00:00"
+      "updatedAt": "2026-10-16T13:15:11.948715+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:48.774779+00:00"
+      "updatedAt": "2026-10-16T13:15:12.172182+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-16T07:08:49.012534+00:00"
+      "updatedAt": "2026-10-16T13:15:12.400191+00:00"
     }
   },
   "errors": []
