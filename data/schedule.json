@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:03:06.858989+00:00",
+  "generatedAt": "2026-10-16T21:07:15.224802+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -13305,8 +13305,8 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-16T18:00:00Z",
       "venue": "Worlds · 入围赛 · BO5",
-      "status": "LIVE",
-      "homeScore": 0,
+      "status": "FINISHED",
+      "homeScore": 3,
       "awayScore": 0,
       "homeTeam": {
         "id": "lol-kc",
@@ -13371,24 +13371,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-16T23:00:00Z",
       "venue": "Worlds · 入围赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-c9",
-        "name": "Cloud9 Kia",
-        "nameZh": "Cloud9 Kia",
-        "abbreviation": "C9",
+        "id": "lol-fur",
+        "name": "FURIA",
+        "nameZh": "FURIA",
+        "abbreviation": "FUR",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-fur",
-        "name": "FURIA",
-        "nameZh": "FURIA",
-        "abbreviation": "FUR",
+        "id": "lol-c9",
+        "name": "Cloud9 Kia",
+        "nameZh": "Cloud9 Kia",
+        "abbreviation": "C9",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -13814,10 +13814,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-mvk",
+        "name": "MVK Esports",
+        "nameZh": "MVK Esports",
+        "abbreviation": "MVK",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -14012,10 +14012,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-kc",
+        "name": "Karmine Corp",
+        "nameZh": "Karmine Corp",
+        "abbreviation": "KC",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -27461,35 +27461,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:00.395182+00:00"
+      "updatedAt": "2026-10-16T21:07:08.494360+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:01.300729+00:00"
+      "updatedAt": "2026-10-16T21:07:09.338075+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:06.128338+00:00"
+      "updatedAt": "2026-10-16T21:07:13.892940+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:06.389399+00:00"
+      "updatedAt": "2026-10-16T21:07:14.206527+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:06.506084+00:00"
+      "updatedAt": "2026-10-16T21:07:14.462284+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:06.621457+00:00"
+      "updatedAt": "2026-10-16T21:07:14.751519+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:06.735437+00:00"
+      "updatedAt": "2026-10-16T21:07:15.029734+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-16T18:03:06.858713+00:00"
+      "updatedAt": "2026-10-16T21:07:15.224358+00:00"
     }
   },
   "errors": []
