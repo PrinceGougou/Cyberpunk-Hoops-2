@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:57:06.428403+00:00",
+  "generatedAt": "2026-10-17T12:11:09.548745+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -13604,7 +13604,7 @@
       "venue": "NBA季前赛",
       "status": "FINISHED",
       "homeScore": 98,
-      "awayScore": 117,
+      "awayScore": 116,
       "homeTeam": {
         "id": "nba-30",
         "name": "黄蜂",
@@ -13833,9 +13833,9 @@
       "league": "CBA",
       "startsAt": "2026-10-17T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 25,
+      "awayScore": 29,
       "homeTeam": {
         "id": "cba-40321",
         "name": "江苏肯帝亚",
@@ -13866,9 +13866,9 @@
       "league": "CBA",
       "startsAt": "2026-10-17T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 21,
+      "awayScore": 49,
       "homeTeam": {
         "id": "cba-61596",
         "name": "宁波町渥",
@@ -13899,9 +13899,9 @@
       "league": "CBA",
       "startsAt": "2026-10-17T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 34,
+      "awayScore": 26,
       "homeTeam": {
         "id": "cba-40304",
         "name": "四川锦城",
@@ -13932,9 +13932,9 @@
       "league": "CBA",
       "startsAt": "2026-10-17T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 25,
+      "awayScore": 38,
       "homeTeam": {
         "id": "cba-40305",
         "name": "浙江浙商证券",
@@ -13965,9 +13965,9 @@
       "league": "CBA",
       "startsAt": "2026-10-17T20:00:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 16,
+      "awayScore": 14,
       "homeTeam": {
         "id": "cba-40310",
         "name": "新疆广汇能源",
@@ -27725,35 +27725,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:56:57.989831+00:00"
+      "updatedAt": "2026-10-17T12:11:00.929752+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:56:58.802393+00:00"
+      "updatedAt": "2026-10-17T12:11:01.696992+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:57:05.351713+00:00"
+      "updatedAt": "2026-10-17T12:11:08.899799+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:57:05.687593+00:00"
+      "updatedAt": "2026-10-17T12:11:09.106320+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:57:05.909041+00:00"
+      "updatedAt": "2026-10-17T12:11:09.193020+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:57:06.062976+00:00"
+      "updatedAt": "2026-10-17T12:11:09.315137+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:57:06.188686+00:00"
+      "updatedAt": "2026-10-17T12:11:09.407897+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-17T06:57:06.428035+00:00"
+      "updatedAt": "2026-10-17T12:11:09.548360+00:00"
     }
   },
   "errors": []
