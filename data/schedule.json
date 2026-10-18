@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:03:43.901255+00:00",
+  "generatedAt": "2026-10-18T15:51:54.065964+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -14031,9 +14031,9 @@
       "league": "CBA",
       "startsAt": "2026-10-18T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 96,
+      "awayScore": 95,
       "homeTeam": {
         "id": "cba-40322",
         "name": "南京同曦宙光",
@@ -14064,9 +14064,9 @@
       "league": "CBA",
       "startsAt": "2026-10-18T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 90,
+      "awayScore": 79,
       "homeTeam": {
         "id": "cba-40315",
         "name": "广州智都集团",
@@ -14097,9 +14097,9 @@
       "league": "CBA",
       "startsAt": "2026-10-18T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 84,
+      "awayScore": 95,
       "homeTeam": {
         "id": "cba-40318",
         "name": "山东高速",
@@ -14130,9 +14130,9 @@
       "league": "CBA",
       "startsAt": "2026-10-18T19:35:00+08:00",
       "venue": "CBA常规赛第1轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 82,
+      "awayScore": 84,
       "homeTeam": {
         "id": "cba-40311",
         "name": "长白山恩都里",
@@ -28022,35 +28022,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:38.567779+00:00"
+      "updatedAt": "2026-10-18T15:51:47.441837+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:39.289720+00:00"
+      "updatedAt": "2026-10-18T15:51:48.177888+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:43.399841+00:00"
+      "updatedAt": "2026-10-18T15:51:53.495198+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:43.535897+00:00"
+      "updatedAt": "2026-10-18T15:51:53.684833+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:43.639559+00:00"
+      "updatedAt": "2026-10-18T15:51:53.798938+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:43.739502+00:00"
+      "updatedAt": "2026-10-18T15:51:53.862836+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:43.801950+00:00"
+      "updatedAt": "2026-10-18T15:51:53.964678+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-18T11:03:43.900827+00:00"
+      "updatedAt": "2026-10-18T15:51:54.065445+00:00"
     }
   },
   "errors": []
