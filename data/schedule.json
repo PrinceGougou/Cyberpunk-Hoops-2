@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:02:58.315326+00:00",
+  "generatedAt": "2026-10-20T21:36:48.034729+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -14427,9 +14427,9 @@
       "league": "NBA",
       "startsAt": "2026-10-21T03:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 113,
+      "awayScore": 121,
       "homeTeam": {
         "id": "nba-2",
         "name": "凯尔特人",
@@ -28715,35 +28715,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:53.278804+00:00"
+      "updatedAt": "2026-10-20T21:36:42.903008+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:53.976869+00:00"
+      "updatedAt": "2026-10-20T21:36:43.626092+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:57.822769+00:00"
+      "updatedAt": "2026-10-20T21:36:47.525747+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:57.942766+00:00"
+      "updatedAt": "2026-10-20T21:36:47.653073+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:58.045026+00:00"
+      "updatedAt": "2026-10-20T21:36:47.747218+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:58.142179+00:00"
+      "updatedAt": "2026-10-20T21:36:47.846188+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:58.198986+00:00"
+      "updatedAt": "2026-10-20T21:36:47.934461+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-20T17:02:58.314872+00:00"
+      "updatedAt": "2026-10-20T21:36:48.034260+00:00"
     }
   },
   "errors": []
