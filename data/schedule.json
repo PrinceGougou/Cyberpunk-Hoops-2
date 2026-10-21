@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:38:56.812749+00:00",
+  "generatedAt": "2026-10-21T13:47:53.046268+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -14526,9 +14526,9 @@
       "league": "CBA",
       "startsAt": "2026-10-21T19:35:00+08:00",
       "venue": "CBA常规赛第2轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 93,
+      "awayScore": 97,
       "homeTeam": {
         "id": "cba-40320",
         "name": "青岛崂山啤酒",
@@ -14559,9 +14559,9 @@
       "league": "CBA",
       "startsAt": "2026-10-21T19:35:00+08:00",
       "venue": "CBA常规赛第2轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 89,
+      "awayScore": 75,
       "homeTeam": {
         "id": "cba-40312",
         "name": "浙江稠州金租",
@@ -28847,35 +28847,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:49.442501+00:00"
+      "updatedAt": "2026-10-21T13:47:46.741306+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:50.419016+00:00"
+      "updatedAt": "2026-10-21T13:47:47.462739+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:55.951376+00:00"
+      "updatedAt": "2026-10-21T13:47:52.472535+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:56.180911+00:00"
+      "updatedAt": "2026-10-21T13:47:52.612142+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:56.311398+00:00"
+      "updatedAt": "2026-10-21T13:47:52.731893+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:56.554123+00:00"
+      "updatedAt": "2026-10-21T13:47:52.808378+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:56.683379+00:00"
+      "updatedAt": "2026-10-21T13:47:52.928013+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-21T07:38:56.812341+00:00"
+      "updatedAt": "2026-10-21T13:47:53.045805+00:00"
     }
   },
   "errors": []
