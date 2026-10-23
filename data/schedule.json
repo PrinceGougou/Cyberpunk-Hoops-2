@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:20:38.049870+00:00",
+  "generatedAt": "2026-10-23T23:08:17.491840+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -15219,9 +15219,9 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T18:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-tes",
         "name": "TOP ESPORTS",
@@ -15252,24 +15252,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T19:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-blg",
-        "name": "BILIBILI GAMING",
-        "nameZh": "BILIBILI GAMING",
-        "abbreviation": "BLG",
+        "id": "lol-mkoi",
+        "name": "Movistar KOI",
+        "nameZh": "Movistar KOI",
+        "abbreviation": "MKOI",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-mkoi",
-        "name": "Movistar KOI",
-        "nameZh": "Movistar KOI",
-        "abbreviation": "MKOI",
+        "id": "lol-blg",
+        "name": "BILIBILI GAMING",
+        "nameZh": "BILIBILI GAMING",
+        "abbreviation": "BLG",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -15450,24 +15450,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T20:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-al",
-        "name": "Anyone's Legend",
-        "nameZh": "Anyone's Legend",
-        "abbreviation": "AL",
+        "id": "lol-kc",
+        "name": "Karmine Corp",
+        "nameZh": "Karmine Corp",
+        "abbreviation": "KC",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-kc",
-        "name": "Karmine Corp",
-        "nameZh": "Karmine Corp",
-        "abbreviation": "KC",
+        "id": "lol-al",
+        "name": "Anyone's Legend",
+        "nameZh": "Anyone's Legend",
+        "abbreviation": "AL",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -15483,24 +15483,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T21:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-g2",
-        "name": "G2 Esports",
-        "nameZh": "G2 Esports",
-        "abbreviation": "G2",
+        "id": "lol-dk",
+        "name": "Dplus KIA",
+        "nameZh": "Dplus KIA",
+        "abbreviation": "DK",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-dk",
-        "name": "Dplus KIA",
-        "nameZh": "Dplus KIA",
-        "abbreviation": "DK",
+        "id": "lol-g2",
+        "name": "G2 Esports",
+        "nameZh": "G2 Esports",
+        "abbreviation": "G2",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -15516,9 +15516,9 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T22:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-tlaw",
         "name": "Team Liquid Alienware",
@@ -15615,9 +15615,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T04:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 132,
+      "awayScore": 125,
       "homeTeam": {
         "id": "nba-4",
         "name": "公牛",
@@ -29177,35 +29177,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:32.623022+00:00"
+      "updatedAt": "2026-10-23T23:08:12.113614+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:33.391152+00:00"
+      "updatedAt": "2026-10-23T23:08:12.797455+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:37.523685+00:00"
+      "updatedAt": "2026-10-23T23:08:16.994462+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:37.719629+00:00"
+      "updatedAt": "2026-10-23T23:08:17.089895+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:37.794431+00:00"
+      "updatedAt": "2026-10-23T23:08:17.207018+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:37.867674+00:00"
+      "updatedAt": "2026-10-23T23:08:17.257326+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:37.977693+00:00"
+      "updatedAt": "2026-10-23T23:08:17.374834+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-23T18:20:38.049476+00:00"
+      "updatedAt": "2026-10-23T23:08:17.491547+00:00"
     }
   },
   "errors": []
