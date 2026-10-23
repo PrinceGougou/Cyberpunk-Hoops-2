@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:26:04.956409+00:00",
+  "generatedAt": "2026-10-23T18:20:38.049870+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -15186,24 +15186,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T17:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "homeTeam": {
-        "id": "lol-gen",
-        "name": "Gen.G Esports",
-        "nameZh": "Gen.G Esports",
-        "abbreviation": "GEN",
+        "id": "lol-ig",
+        "name": "Invictus Gaming",
+        "nameZh": "Invictus Gaming",
+        "abbreviation": "IG",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-ig",
-        "name": "Invictus Gaming",
-        "nameZh": "Invictus Gaming",
-        "abbreviation": "IG",
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -15219,24 +15219,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T18:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-hle",
-        "name": "Hanwha Life Esports",
-        "nameZh": "Hanwha Life Esports",
-        "abbreviation": "HLE",
+        "id": "lol-tes",
+        "name": "TOP ESPORTS",
+        "nameZh": "TOP ESPORTS",
+        "abbreviation": "TES",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tes",
-        "name": "TOP ESPORTS",
-        "nameZh": "TOP ESPORTS",
-        "abbreviation": "TES",
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -15285,9 +15285,9 @@
       "league": "CBA",
       "startsAt": "2026-10-23T19:35:00+08:00",
       "venue": "CBA常规赛第3轮",
-      "status": "LIVE",
-      "homeScore": 88,
-      "awayScore": 76,
+      "status": "FINISHED",
+      "homeScore": 93,
+      "awayScore": 82,
       "homeTeam": {
         "id": "cba-40323",
         "name": "北京控股",
@@ -15318,9 +15318,9 @@
       "league": "CBA",
       "startsAt": "2026-10-23T19:35:00+08:00",
       "venue": "CBA常规赛第3轮",
-      "status": "LIVE",
-      "homeScore": 101,
-      "awayScore": 92,
+      "status": "FINISHED",
+      "homeScore": 104,
+      "awayScore": 93,
       "homeTeam": {
         "id": "cba-40308",
         "name": "辽宁本钢",
@@ -15351,9 +15351,9 @@
       "league": "CBA",
       "startsAt": "2026-10-23T19:35:00+08:00",
       "venue": "CBA常规赛第3轮",
-      "status": "LIVE",
-      "homeScore": 72,
-      "awayScore": 86,
+      "status": "FINISHED",
+      "homeScore": 97,
+      "awayScore": 106,
       "homeTeam": {
         "id": "cba-40322",
         "name": "南京同曦宙光",
@@ -15384,9 +15384,9 @@
       "league": "CBA",
       "startsAt": "2026-10-23T19:35:00+08:00",
       "venue": "CBA常规赛第3轮",
-      "status": "LIVE",
-      "homeScore": 88,
-      "awayScore": 74,
+      "status": "FINISHED",
+      "homeScore": 102,
+      "awayScore": 86,
       "homeTeam": {
         "id": "cba-40316",
         "name": "天津先行者",
@@ -15417,7 +15417,7 @@
       "league": "CBA",
       "startsAt": "2026-10-23T19:35:00+08:00",
       "venue": "CBA常规赛第3轮",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 88,
       "awayScore": 80,
       "homeTeam": {
@@ -29177,35 +29177,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:25:53.317010+00:00"
+      "updatedAt": "2026-10-23T18:20:32.623022+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:25:54.153968+00:00"
+      "updatedAt": "2026-10-23T18:20:33.391152+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:26:03.898474+00:00"
+      "updatedAt": "2026-10-23T18:20:37.523685+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:26:04.247921+00:00"
+      "updatedAt": "2026-10-23T18:20:37.719629+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:26:04.492667+00:00"
+      "updatedAt": "2026-10-23T18:20:37.794431+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:26:04.612221+00:00"
+      "updatedAt": "2026-10-23T18:20:37.867674+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:26:04.747353+00:00"
+      "updatedAt": "2026-10-23T18:20:37.977693+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-23T13:26:04.956047+00:00"
+      "updatedAt": "2026-10-23T18:20:38.049476+00:00"
     }
   },
   "errors": []
