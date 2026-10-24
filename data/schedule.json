@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:35:38.968101+00:00",
+  "generatedAt": "2026-10-24T10:58:54.505228+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -15912,9 +15912,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 92,
-      "awayScore": 103,
+      "status": "FINISHED",
+      "homeScore": 111,
+      "awayScore": 108,
       "homeTeam": {
         "id": "nba-29",
         "name": "灰熊",
@@ -15978,7 +15978,7 @@
       "league": "NBA",
       "startsAt": "2026-10-24T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 128,
       "awayScore": 120,
       "homeTeam": {
@@ -29210,35 +29210,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:30.260619+00:00"
+      "updatedAt": "2026-10-24T10:58:45.810070+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:31.202877+00:00"
+      "updatedAt": "2026-10-24T10:58:46.721683+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:38.201443+00:00"
+      "updatedAt": "2026-10-24T10:58:53.286362+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:38.352647+00:00"
+      "updatedAt": "2026-10-24T10:58:53.601683+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:38.448352+00:00"
+      "updatedAt": "2026-10-24T10:58:53.799280+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:38.658962+00:00"
+      "updatedAt": "2026-10-24T10:58:54.044171+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:38.753702+00:00"
+      "updatedAt": "2026-10-24T10:58:54.268913+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-24T04:35:38.967631+00:00"
+      "updatedAt": "2026-10-24T10:58:54.504619+00:00"
     }
   },
   "errors": []
