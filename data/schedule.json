@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:08:17.491840+00:00",
+  "generatedAt": "2026-10-24T04:35:38.968101+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -15516,7 +15516,7 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T22:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 0,
       "awayScore": 1,
       "homeTeam": {
@@ -15549,9 +15549,9 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-23T23:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 1,
       "homeTeam": {
         "id": "lol-los",
         "name": "LOS",
@@ -15582,24 +15582,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-24T00:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-tsw",
-        "name": "Team Secret Whales",
-        "nameZh": "Team Secret Whales",
-        "abbreviation": "TSW",
+        "id": "lol-lyon",
+        "name": "LYON",
+        "nameZh": "LYON",
+        "abbreviation": "LYON",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-lyon",
-        "name": "LYON",
-        "nameZh": "LYON",
-        "abbreviation": "LYON",
+        "id": "lol-tsw",
+        "name": "Team Secret Whales",
+        "nameZh": "Team Secret Whales",
+        "abbreviation": "TSW",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -15648,9 +15648,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T07:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 103,
+      "awayScore": 107,
       "homeTeam": {
         "id": "nba-18",
         "name": "尼克斯",
@@ -15681,9 +15681,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T07:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 128,
+      "awayScore": 81,
       "homeTeam": {
         "id": "nba-1",
         "name": "老鹰",
@@ -15714,9 +15714,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T07:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 121,
+      "awayScore": 105,
       "homeTeam": {
         "id": "nba-6",
         "name": "独行侠",
@@ -15747,9 +15747,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T07:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 115,
+      "awayScore": 93,
       "homeTeam": {
         "id": "nba-16",
         "name": "森林狼",
@@ -15780,9 +15780,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T07:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 112,
+      "awayScore": 102,
       "homeTeam": {
         "id": "nba-28",
         "name": "猛龙",
@@ -15813,9 +15813,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 128,
+      "awayScore": 111,
       "homeTeam": {
         "id": "nba-8",
         "name": "活塞",
@@ -15846,9 +15846,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T09:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 114,
+      "awayScore": 110,
       "homeTeam": {
         "id": "nba-10",
         "name": "火箭",
@@ -15879,9 +15879,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T09:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 119,
+      "awayScore": 120,
       "homeTeam": {
         "id": "nba-3",
         "name": "鹈鹕",
@@ -15912,9 +15912,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 92,
+      "awayScore": 103,
       "homeTeam": {
         "id": "nba-29",
         "name": "灰熊",
@@ -15945,9 +15945,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 117,
+      "awayScore": 125,
       "homeTeam": {
         "id": "nba-12",
         "name": "快船",
@@ -15978,9 +15978,9 @@
       "league": "NBA",
       "startsAt": "2026-10-24T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 128,
+      "awayScore": 120,
       "homeTeam": {
         "id": "nba-22",
         "name": "开拓者",
@@ -16007,7 +16007,7 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600103"
     },
     {
-      "id": "lol-115660540726095021",
+      "id": "lol-115660540726095029",
       "league": "LOL_INTL",
       "startsAt": "2026-10-24T17:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
@@ -16015,20 +16015,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-al",
+        "name": "Anyone's Legend",
+        "nameZh": "Anyone's Legend",
+        "abbreviation": "AL",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-tes",
+        "name": "TOP ESPORTS",
+        "nameZh": "TOP ESPORTS",
+        "abbreviation": "TES",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -16040,7 +16040,7 @@
       "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
     },
     {
-      "id": "lol-115660540726095023",
+      "id": "lol-115660540726095021",
       "league": "LOL_INTL",
       "startsAt": "2026-10-24T18:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
@@ -16048,20 +16048,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-cfo",
+        "name": "CTBC Flying Oyster",
+        "nameZh": "CTBC Flying Oyster",
+        "abbreviation": "CFO",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-mkoi",
+        "name": "Movistar KOI",
+        "nameZh": "Movistar KOI",
+        "abbreviation": "MKOI",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -16073,7 +16073,7 @@
       "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
     },
     {
-      "id": "lol-115660540726095025",
+      "id": "lol-115660540726095031",
       "league": "LOL_INTL",
       "startsAt": "2026-10-24T19:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
@@ -16081,20 +16081,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-g2",
+        "name": "G2 Esports",
+        "nameZh": "G2 Esports",
+        "abbreviation": "G2",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-los",
+        "name": "LOS",
+        "nameZh": "LOS",
+        "abbreviation": "LOS",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -16205,7 +16205,7 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110903"
     },
     {
-      "id": "lol-115660540726095027",
+      "id": "lol-115660540726095023",
       "league": "LOL_INTL",
       "startsAt": "2026-10-24T20:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
@@ -16213,86 +16213,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-lyon",
+        "name": "LYON",
+        "nameZh": "LYON",
+        "abbreviation": "LYON",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
-    },
-    {
-      "id": "lol-115660540726095029",
-      "league": "LOL_INTL",
-      "startsAt": "2026-10-24T21:00:00Z",
-      "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
-    },
-    {
-      "id": "lol-115660540726095031",
-      "league": "LOL_INTL",
-      "startsAt": "2026-10-24T22:00:00Z",
-      "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_INTL",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-kc",
+        "name": "Karmine Corp",
+        "nameZh": "Karmine Corp",
+        "abbreviation": "KC",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -16306,26 +16240,92 @@
     {
       "id": "lol-115660540726095033",
       "league": "LOL_INTL",
-      "startsAt": "2026-10-24T23:00:00Z",
+      "startsAt": "2026-10-24T21:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
       "status": "UPCOMING",
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-tsw",
+        "name": "Team Secret Whales",
+        "nameZh": "Team Secret Whales",
+        "abbreviation": "TSW",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-ig",
+        "name": "Invictus Gaming",
+        "nameZh": "Invictus Gaming",
+        "abbreviation": "IG",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://live.bilibili.com/lol",
+      "galleryUrl": "",
+      "broadcastProvider": "LoL Esports (Riot Games)",
+      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
+    },
+    {
+      "id": "lol-115660540726095025",
+      "league": "LOL_INTL",
+      "startsAt": "2026-10-24T22:00:00Z",
+      "venue": "Worlds · 瑞士轮 · BO1",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "lol-gen",
+        "name": "Gen.G Esports",
+        "nameZh": "Gen.G Esports",
+        "abbreviation": "GEN",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "lol-hle",
+        "name": "Hanwha Life Esports",
+        "nameZh": "Hanwha Life Esports",
+        "abbreviation": "HLE",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://live.bilibili.com/lol",
+      "galleryUrl": "",
+      "broadcastProvider": "LoL Esports (Riot Games)",
+      "sourceUrl": "https://lolesports.com/en-US/?leagues=worlds"
+    },
+    {
+      "id": "lol-115660540726095027",
+      "league": "LOL_INTL",
+      "startsAt": "2026-10-24T23:00:00Z",
+      "venue": "Worlds · 瑞士轮 · BO1",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "lol-t1",
+        "name": "T1",
+        "nameZh": "T1",
+        "abbreviation": "T1",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "LOL_INTL",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "lol-dk",
+        "name": "Dplus KIA",
+        "nameZh": "Dplus KIA",
+        "abbreviation": "DK",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -16345,20 +16345,20 @@
       "homeScore": null,
       "awayScore": null,
       "homeTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-tlaw",
+        "name": "Team Liquid Alienware",
+        "nameZh": "Team Liquid Alienware",
+        "abbreviation": "TLAW",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-blg",
+        "name": "BILIBILI GAMING",
+        "nameZh": "BILIBILI GAMING",
+        "abbreviation": "BLG",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -29172,40 +29172,73 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110614",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110614"
+    },
+    {
+      "id": "cba-100008-100110625",
+      "league": "CBA",
+      "startsAt": "2026-12-08T19:35:00+08:00",
+      "venue": "CBA常规赛第11轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40318",
+        "name": "山东高速",
+        "nameZh": "山东高速",
+        "abbreviation": "山东高",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40305",
+        "name": "浙江浙商证券",
+        "nameZh": "浙江浙商证券",
+        "abbreviation": "浙江浙",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110625",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110625",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110625"
     }
   ],
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:12.113614+00:00"
+      "updatedAt": "2026-10-24T04:35:30.260619+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:12.797455+00:00"
+      "updatedAt": "2026-10-24T04:35:31.202877+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:16.994462+00:00"
+      "updatedAt": "2026-10-24T04:35:38.201443+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:17.089895+00:00"
+      "updatedAt": "2026-10-24T04:35:38.352647+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:17.207018+00:00"
+      "updatedAt": "2026-10-24T04:35:38.448352+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:17.257326+00:00"
+      "updatedAt": "2026-10-24T04:35:38.658962+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:17.374834+00:00"
+      "updatedAt": "2026-10-24T04:35:38.753702+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-23T23:08:17.491547+00:00"
+      "updatedAt": "2026-10-24T04:35:38.967631+00:00"
     }
   },
   "errors": []
