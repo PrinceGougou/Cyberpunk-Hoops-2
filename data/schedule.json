@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T15:11:14.894931+00:00",
+  "generatedAt": "2026-10-26T21:00:21.576357+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -17232,24 +17232,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-26T17:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-cfo",
-        "name": "CTBC Flying Oyster",
-        "nameZh": "CTBC Flying Oyster",
-        "abbreviation": "CFO",
+        "id": "lol-t1",
+        "name": "T1",
+        "nameZh": "T1",
+        "abbreviation": "T1",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-t1",
-        "name": "T1",
-        "nameZh": "T1",
-        "abbreviation": "T1",
+        "id": "lol-cfo",
+        "name": "CTBC Flying Oyster",
+        "nameZh": "CTBC Flying Oyster",
+        "abbreviation": "CFO",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -17265,9 +17265,9 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-26T18:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO1",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-blg",
         "name": "BILIBILI GAMING",
@@ -17298,24 +17298,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-26T19:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 0,
+      "awayScore": 2,
       "homeTeam": {
-        "id": "lol-los",
-        "name": "LOS",
-        "nameZh": "LOS",
-        "abbreviation": "LOS",
+        "id": "lol-tsw",
+        "name": "Team Secret Whales",
+        "nameZh": "Team Secret Whales",
+        "abbreviation": "TSW",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tsw",
-        "name": "Team Secret Whales",
-        "nameZh": "Team Secret Whales",
-        "abbreviation": "TSW",
+        "id": "lol-los",
+        "name": "LOS",
+        "nameZh": "LOS",
+        "abbreviation": "LOS",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -17397,9 +17397,9 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-26T22:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-tlaw",
         "name": "Team Liquid Alienware",
@@ -18814,7 +18814,7 @@
     {
       "id": "nba-100000-10022600144",
       "league": "NBA",
-      "startsAt": "2026-10-30T07:00:00+08:00",
+      "startsAt": "2026-10-30T08:00:00+08:00",
       "venue": "NBA常规赛",
       "status": "UPCOMING",
       "homeScore": null,
@@ -29507,35 +29507,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:05.089202+00:00"
+      "updatedAt": "2026-10-26T21:00:15.227564+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:05.988420+00:00"
+      "updatedAt": "2026-10-26T21:00:16.072607+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:13.802295+00:00"
+      "updatedAt": "2026-10-26T21:00:20.424179+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:14.120644+00:00"
+      "updatedAt": "2026-10-26T21:00:20.717368+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:14.249358+00:00"
+      "updatedAt": "2026-10-26T21:00:20.835586+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:14.455270+00:00"
+      "updatedAt": "2026-10-26T21:00:21.084080+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:14.692043+00:00"
+      "updatedAt": "2026-10-26T21:00:21.329585+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-26T15:11:14.894462+00:00"
+      "updatedAt": "2026-10-26T21:00:21.575984+00:00"
     }
   },
   "errors": []
