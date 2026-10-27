@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:28:57.928771+00:00",
+  "generatedAt": "2026-10-27T07:51:16.008073+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -728,6 +728,72 @@
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
     },
     {
+      "id": "team-china-1111812",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-06-03T19:30:00+08:00",
+      "venue": "湖南省长沙市 · 2026年中国男篮热身赛（vs KK FMP俱乐部） · 热身赛 第1场",
+      "status": "FINISHED",
+      "homeScore": 82,
+      "awayScore": 78,
+      "homeTeam": {
+        "id": "team-china-848",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22171",
+        "name": "KK FMP俱乐部",
+        "nameZh": "KK FMP俱乐部",
+        "abbreviation": "KK F",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2719&seasonId=2201&competitionId=176&teamId=848&type=5"
+    },
+    {
+      "id": "team-china-1111813",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-06-04T19:30:00+08:00",
+      "venue": "湖南省长沙市 · 2026年中国男篮热身赛（vs KK FMP俱乐部） · 热身赛 第2场",
+      "status": "FINISHED",
+      "homeScore": 81,
+      "awayScore": 82,
+      "homeTeam": {
+        "id": "team-china-848",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22171",
+        "name": "KK FMP俱乐部",
+        "nameZh": "KK FMP俱乐部",
+        "abbreviation": "KK F",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2719&seasonId=2201&competitionId=176&teamId=848&type=5"
+    },
+    {
       "id": "lol-115548128963037563",
       "league": "LOL_LCK",
       "startsAt": "2026-06-06T08:00:00Z",
@@ -891,6 +957,105 @@
       "galleryUrl": "",
       "broadcastProvider": "LoL Esports (Riot Games)",
       "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
+    },
+    {
+      "id": "team-china-1112398",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-06-21T19:30:00+08:00",
+      "venue": "浙江省杭州市 · 2026年中国男篮热身赛 · 热身赛 第1场",
+      "status": "FINISHED",
+      "homeScore": 91,
+      "awayScore": 81,
+      "homeTeam": {
+        "id": "team-china-848",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-492",
+        "name": "澳大利亚男篮",
+        "nameZh": "澳大利亚男篮",
+        "abbreviation": "澳大利亚",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2732&seasonId=2210&competitionId=176&teamId=848&type=5"
+    },
+    {
+      "id": "team-china-1112399",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-06-22T19:30:00+08:00",
+      "venue": "浙江省杭州市 · 2026年中国男篮热身赛 · 热身赛 第2场",
+      "status": "FINISHED",
+      "homeScore": 78,
+      "awayScore": 69,
+      "homeTeam": {
+        "id": "team-china-492",
+        "name": "澳大利亚男篮",
+        "nameZh": "澳大利亚男篮",
+        "abbreviation": "澳大利亚",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22219",
+        "name": "荷兰男篮",
+        "nameZh": "荷兰男篮",
+        "abbreviation": "荷兰男篮",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2732&seasonId=2210&competitionId=176&teamId=848&type=5"
+    },
+    {
+      "id": "team-china-1112400",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-06-23T19:30:00+08:00",
+      "venue": "浙江省杭州市 · 2026年中国男篮热身赛 · 热身赛 第3场",
+      "status": "FINISHED",
+      "homeScore": 65,
+      "awayScore": 60,
+      "homeTeam": {
+        "id": "team-china-848",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22219",
+        "name": "荷兰男篮",
+        "nameZh": "荷兰男篮",
+        "abbreviation": "荷兰男篮",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2732&seasonId=2210&competitionId=176&teamId=848&type=5"
     },
     {
       "id": "lol-115570934355614497",
@@ -6998,6 +7163,39 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110177"
     },
     {
+      "id": "team-china-1113575",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-08-13T19:30:00+08:00",
+      "venue": "广东佛山 · 2026中国男篮热身赛（vs乌拉圭男篮） · 热身赛 第1场",
+      "status": "FINISHED",
+      "homeScore": 83,
+      "awayScore": 78,
+      "homeTeam": {
+        "id": "team-china-22298",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22299",
+        "name": "乌拉圭男篮",
+        "nameZh": "乌拉圭男篮",
+        "abbreviation": "乌拉圭男",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2753&seasonId=2238&competitionId=176&teamId=22298&type=5"
+    },
+    {
       "id": "cba-100008-100110178",
       "league": "CBA",
       "startsAt": "2026-08-13T20:00:00+08:00",
@@ -7460,6 +7658,39 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110181"
     },
     {
+      "id": "team-china-1113576",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-08-15T19:30:00+08:00",
+      "venue": "广东佛山 · 2026中国男篮热身赛（vs乌拉圭男篮） · 热身赛 第2场",
+      "status": "FINISHED",
+      "homeScore": 72,
+      "awayScore": 91,
+      "homeTeam": {
+        "id": "team-china-22298",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22299",
+        "name": "乌拉圭男篮",
+        "nameZh": "乌拉圭男篮",
+        "abbreviation": "乌拉圭男",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2753&seasonId=2238&competitionId=176&teamId=22298&type=5"
+    },
+    {
       "id": "cba-100008-100110182",
       "league": "CBA",
       "startsAt": "2026-08-15T20:00:00+08:00",
@@ -7722,6 +7953,39 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110294",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110294"
+    },
+    {
+      "id": "team-china-1113577",
+      "league": "TEAM_CHINA",
+      "startsAt": "2026-08-17T19:30:00+08:00",
+      "venue": "广东佛山 · 2026中国男篮热身赛（vs乌拉圭男篮） · 热身赛 第3场",
+      "status": "FINISHED",
+      "homeScore": 77,
+      "awayScore": 84,
+      "homeTeam": {
+        "id": "team-china-22298",
+        "name": "中国男篮",
+        "nameZh": "中国男篮",
+        "abbreviation": "中国男篮",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "team-china-22300",
+        "name": "新西兰男篮",
+        "nameZh": "新西兰男篮",
+        "abbreviation": "新西兰男",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "TEAM_CHINA",
+        "roster": []
+      },
+      "videoHighlightUrl": "",
+      "galleryUrl": "",
+      "broadcastProvider": "中国篮球协会官网",
+      "sourceUrl": "https://www.cba.net.cn/gjdscsg/index.jhtml?matchId=2753&seasonId=2238&competitionId=176&teamId=22298&type=5"
     },
     {
       "id": "lol-116566854547835344",
@@ -17199,9 +17463,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T07:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 112,
-      "awayScore": 111,
+      "status": "FINISHED",
+      "homeScore": 125,
+      "awayScore": 127,
       "homeTeam": {
         "id": "nba-16",
         "name": "森林狼",
@@ -17232,9 +17496,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T07:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 75,
-      "awayScore": 105,
+      "status": "FINISHED",
+      "homeScore": 99,
+      "awayScore": 134,
       "homeTeam": {
         "id": "nba-4",
         "name": "公牛",
@@ -17265,9 +17529,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T07:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 81,
-      "awayScore": 83,
+      "status": "FINISHED",
+      "homeScore": 113,
+      "awayScore": 109,
       "homeTeam": {
         "id": "nba-6",
         "name": "独行侠",
@@ -17298,9 +17562,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 67,
-      "awayScore": 63,
+      "status": "FINISHED",
+      "homeScore": 102,
+      "awayScore": 110,
       "homeTeam": {
         "id": "nba-11",
         "name": "步行者",
@@ -17331,9 +17595,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 61,
-      "awayScore": 73,
+      "status": "FINISHED",
+      "homeScore": 114,
+      "awayScore": 125,
       "homeTeam": {
         "id": "nba-21",
         "name": "太阳",
@@ -17364,9 +17628,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T08:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 55,
-      "awayScore": 52,
+      "status": "FINISHED",
+      "homeScore": 110,
+      "awayScore": 120,
       "homeTeam": {
         "id": "nba-1",
         "name": "老鹰",
@@ -17397,9 +17661,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 11,
-      "awayScore": 13,
+      "status": "FINISHED",
+      "homeScore": 110,
+      "awayScore": 105,
       "homeTeam": {
         "id": "nba-29",
         "name": "灰熊",
@@ -17430,9 +17694,9 @@
       "league": "NBA",
       "startsAt": "2026-10-27T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 134,
+      "awayScore": 114,
       "homeTeam": {
         "id": "nba-9",
         "name": "勇士",
@@ -29474,38 +29738,36 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:25.747990+00:00"
+      "updatedAt": "2026-10-27T07:51:07.624541+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:26.639124+00:00"
+      "updatedAt": "2026-10-27T07:51:08.558529+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
-      "mode": "unavailable",
-      "message": "HTTPSConnectionPool(host='www.cba.net.cn', port=443): Max retries exceeded with url: /datahub/nationalteam/games/matchlist?teamId=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cba.net.cn', port=443) at 0x7bdd6e8dd950>, 'Connection to www.cba.net.cn timed out. (connect timeout=30)'))"
+      "mode": "live",
+      "updatedAt": "2026-10-27T07:51:14.849098+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:57.173405+00:00"
+      "updatedAt": "2026-10-27T07:51:15.207995+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:57.292265+00:00"
+      "updatedAt": "2026-10-27T07:51:15.309212+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:57.422746+00:00"
+      "updatedAt": "2026-10-27T07:51:15.553395+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:57.691563+00:00"
+      "updatedAt": "2026-10-27T07:51:15.785371+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-27T01:28:57.928315+00:00"
+      "updatedAt": "2026-10-27T07:51:16.007629+00:00"
     }
   },
-  "errors": [
-    "CHINA_MEN_OFFICIAL: HTTPSConnectionPool(host='www.cba.net.cn', port=443): Max retries exceeded with url: /datahub/nationalteam/games/matchlist?teamId=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cba.net.cn', port=443) at 0x7bdd6e8dd950>, 'Connection to www.cba.net.cn timed out. (connect timeout=30)'))"
-  ]
+  "errors": []
 }
