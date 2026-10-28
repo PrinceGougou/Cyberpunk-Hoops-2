@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T08:30:19.194265+00:00",
+  "generatedAt": "2026-10-28T16:37:26.448243+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -18090,9 +18090,9 @@
       "league": "CBA",
       "startsAt": "2026-10-28T19:35:00+08:00",
       "venue": "CBA常规赛第5轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 95,
+      "awayScore": 83,
       "homeTeam": {
         "id": "cba-40314",
         "name": "深圳马可波罗",
@@ -29837,35 +29837,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:10.601054+00:00"
+      "updatedAt": "2026-10-28T16:37:15.501872+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:11.408476+00:00"
+      "updatedAt": "2026-10-28T16:37:16.342081+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:18.096694+00:00"
+      "updatedAt": "2026-10-28T16:37:25.219977+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:18.403942+00:00"
+      "updatedAt": "2026-10-28T16:37:25.520386+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:18.546676+00:00"
+      "updatedAt": "2026-10-28T16:37:25.752735+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:18.782865+00:00"
+      "updatedAt": "2026-10-28T16:37:25.990745+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:18.955498+00:00"
+      "updatedAt": "2026-10-28T16:37:26.208088+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-28T08:30:19.193871+00:00"
+      "updatedAt": "2026-10-28T16:37:26.447819+00:00"
     }
   },
   "errors": []
