@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:39:34.163002+00:00",
+  "generatedAt": "2026-10-31T12:27:59.758550+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -19509,9 +19509,9 @@
       "league": "CBA",
       "startsAt": "2026-10-31T19:35:00+08:00",
       "venue": "CBA常规赛第7轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 48,
+      "awayScore": 51,
       "homeTeam": {
         "id": "cba-40323",
         "name": "北京控股",
@@ -19542,9 +19542,9 @@
       "league": "CBA",
       "startsAt": "2026-10-31T19:35:00+08:00",
       "venue": "CBA常规赛第7轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 49,
+      "awayScore": 45,
       "homeTeam": {
         "id": "cba-40307",
         "name": "福建晋江文旅",
@@ -19575,9 +19575,9 @@
       "league": "CBA",
       "startsAt": "2026-10-31T19:35:00+08:00",
       "venue": "CBA常规赛第7轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 40,
+      "awayScore": 39,
       "homeTeam": {
         "id": "cba-40318",
         "name": "山东高速",
@@ -31058,35 +31058,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:25.780473+00:00"
+      "updatedAt": "2026-10-31T12:27:50.688360+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:26.452097+00:00"
+      "updatedAt": "2026-10-31T12:27:51.518098+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:33.507485+00:00"
+      "updatedAt": "2026-10-31T12:27:58.438034+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:33.755170+00:00"
+      "updatedAt": "2026-10-31T12:27:58.796938+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:33.848700+00:00"
+      "updatedAt": "2026-10-31T12:27:59.034784+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:33.921526+00:00"
+      "updatedAt": "2026-10-31T12:27:59.258289+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:34.069422+00:00"
+      "updatedAt": "2026-10-31T12:27:59.513942+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-31T05:39:34.162579+00:00"
+      "updatedAt": "2026-10-31T12:27:59.758101+00:00"
     }
   },
   "errors": []
