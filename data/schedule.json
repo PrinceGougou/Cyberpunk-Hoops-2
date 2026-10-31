@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:27:59.758550+00:00",
+  "generatedAt": "2026-10-31T18:33:20.446525+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -19476,24 +19476,24 @@
       "league": "LOL_INTL",
       "startsAt": "2026-10-31T17:00:00Z",
       "venue": "Worlds · 瑞士轮 · BO3",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 1,
+      "awayScore": 0,
       "homeTeam": {
-        "id": "lol-mkoi",
-        "name": "Movistar KOI",
-        "nameZh": "Movistar KOI",
-        "abbreviation": "MKOI",
+        "id": "lol-kc",
+        "name": "Karmine Corp",
+        "nameZh": "Karmine Corp",
+        "abbreviation": "KC",
         "primaryColor": "#00f0ff",
         "secondaryColor": "#bc00dd",
         "group": "LOL_INTL",
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-kc",
-        "name": "Karmine Corp",
-        "nameZh": "Karmine Corp",
-        "abbreviation": "KC",
+        "id": "lol-mkoi",
+        "name": "Movistar KOI",
+        "nameZh": "Movistar KOI",
+        "abbreviation": "MKOI",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -19509,9 +19509,9 @@
       "league": "CBA",
       "startsAt": "2026-10-31T19:35:00+08:00",
       "venue": "CBA常规赛第7轮",
-      "status": "LIVE",
-      "homeScore": 48,
-      "awayScore": 51,
+      "status": "FINISHED",
+      "homeScore": 106,
+      "awayScore": 84,
       "homeTeam": {
         "id": "cba-40323",
         "name": "北京控股",
@@ -19542,9 +19542,9 @@
       "league": "CBA",
       "startsAt": "2026-10-31T19:35:00+08:00",
       "venue": "CBA常规赛第7轮",
-      "status": "LIVE",
-      "homeScore": 49,
-      "awayScore": 45,
+      "status": "FINISHED",
+      "homeScore": 95,
+      "awayScore": 86,
       "homeTeam": {
         "id": "cba-40307",
         "name": "福建晋江文旅",
@@ -19575,9 +19575,9 @@
       "league": "CBA",
       "startsAt": "2026-10-31T19:35:00+08:00",
       "venue": "CBA常规赛第7轮",
-      "status": "LIVE",
-      "homeScore": 40,
-      "awayScore": 39,
+      "status": "FINISHED",
+      "homeScore": 85,
+      "awayScore": 76,
       "homeTeam": {
         "id": "cba-40318",
         "name": "山东高速",
@@ -31058,35 +31058,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:50.688360+00:00"
+      "updatedAt": "2026-10-31T18:33:15.280739+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:51.518098+00:00"
+      "updatedAt": "2026-10-31T18:33:15.976129+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:58.438034+00:00"
+      "updatedAt": "2026-10-31T18:33:19.948485+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:58.796938+00:00"
+      "updatedAt": "2026-10-31T18:33:20.084632+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:59.034784+00:00"
+      "updatedAt": "2026-10-31T18:33:20.174827+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:59.258289+00:00"
+      "updatedAt": "2026-10-31T18:33:20.266541+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:59.513942+00:00"
+      "updatedAt": "2026-10-31T18:33:20.353705+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-10-31T12:27:59.758101+00:00"
+      "updatedAt": "2026-10-31T18:33:20.446051+00:00"
     }
   },
   "errors": []
