@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:50:06.034245+00:00",
+  "generatedAt": "2026-11-02T23:29:29.426153+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -30362,39 +30362,6 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600354"
     },
     {
-      "id": "cba-100008-100110719",
-      "league": "CBA",
-      "startsAt": "2026-12-14T19:35:00+08:00",
-      "venue": "CBA常规赛第13轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "cba-40321",
-        "name": "江苏肯帝亚",
-        "nameZh": "江苏肯帝亚",
-        "abbreviation": "江苏肯",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "CBA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "cba-40312",
-        "name": "浙江稠州金租",
-        "nameZh": "浙江稠州金租",
-        "abbreviation": "浙江稠",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "CBA",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110719",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110719",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110719"
-    },
-    {
       "id": "cba-100008-100110701",
       "league": "CBA",
       "startsAt": "2026-12-14T19:35:00+08:00",
@@ -30459,6 +30426,39 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110704",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110704"
+    },
+    {
+      "id": "cba-100008-100110719",
+      "league": "CBA",
+      "startsAt": "2026-12-14T19:35:00+08:00",
+      "venue": "CBA常规赛第13轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40321",
+        "name": "江苏肯帝亚",
+        "nameZh": "江苏肯帝亚",
+        "abbreviation": "江苏肯",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40312",
+        "name": "浙江稠州金租",
+        "nameZh": "浙江稠州金租",
+        "abbreviation": "浙江稠",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110719",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110719",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110719"
     },
     {
       "id": "cba-100008-100110708",
@@ -31751,35 +31751,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:49:58.655826+00:00"
+      "updatedAt": "2026-11-02T23:29:23.907193+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:49:59.366992+00:00"
+      "updatedAt": "2026-11-02T23:29:24.632103+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:50:05.560328+00:00"
+      "updatedAt": "2026-11-02T23:29:28.786457+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:50:05.738560+00:00"
+      "updatedAt": "2026-11-02T23:29:29.055194+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:50:05.831569+00:00"
+      "updatedAt": "2026-11-02T23:29:29.133365+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:50:05.853162+00:00"
+      "updatedAt": "2026-11-02T23:29:29.226103+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:50:05.944306+00:00"
+      "updatedAt": "2026-11-02T23:29:29.355835+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-02T15:50:06.033816+00:00"
+      "updatedAt": "2026-11-02T23:29:29.425711+00:00"
     }
   },
   "errors": []
