@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T02:19:43.099439+00:00",
+  "generatedAt": "2026-11-04T12:07:32.186615+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -20763,8 +20763,8 @@
       "league": "LOL_INTL",
       "startsAt": "2026-11-03T22:00:00Z",
       "venue": "Worlds · 四分之一决赛 · BO5",
-      "status": "LIVE",
-      "homeScore": 2,
+      "status": "FINISHED",
+      "homeScore": 3,
       "awayScore": 1,
       "homeTeam": {
         "id": "lol-ig",
@@ -21734,10 +21734,10 @@
         "roster": []
       },
       "awayTeam": {
-        "id": "lol-tbd",
-        "name": "TBD",
-        "nameZh": "TBD",
-        "abbreviation": "TBD",
+        "id": "lol-ig",
+        "name": "Invictus Gaming",
+        "nameZh": "Invictus Gaming",
+        "abbreviation": "IG",
         "primaryColor": "#ff0055",
         "secondaryColor": "#f8ff00",
         "group": "LOL_INTL",
@@ -32312,35 +32312,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:35.697670+00:00"
+      "updatedAt": "2026-11-04T12:07:20.931438+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:36.411351+00:00"
+      "updatedAt": "2026-11-04T12:07:21.647999+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:42.593031+00:00"
+      "updatedAt": "2026-11-04T12:07:31.757247+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:42.797338+00:00"
+      "updatedAt": "2026-11-04T12:07:31.925917+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:42.881511+00:00"
+      "updatedAt": "2026-11-04T12:07:32.023114+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:42.963600+00:00"
+      "updatedAt": "2026-11-04T12:07:32.045046+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:43.030866+00:00"
+      "updatedAt": "2026-11-04T12:07:32.136280+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-04T02:19:43.099023+00:00"
+      "updatedAt": "2026-11-04T12:07:32.186180+00:00"
     }
   },
   "errors": []
