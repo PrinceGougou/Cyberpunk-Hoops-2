@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:55:33.094571+00:00",
+  "generatedAt": "2026-11-07T08:46:49.797009+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -21159,9 +21159,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T08:00:00+08:00",
       "venue": "NBA杯小组赛东部C组",
-      "status": "LIVE",
-      "homeScore": 110,
-      "awayScore": 120,
+      "status": "FINISHED",
+      "homeScore": 132,
+      "awayScore": 139,
       "homeTeam": {
         "id": "nba-27",
         "name": "奇才",
@@ -21192,9 +21192,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T08:00:00+08:00",
       "venue": "NBA杯小组赛东部C组",
-      "status": "LIVE",
-      "homeScore": 96,
-      "awayScore": 59,
+      "status": "FINISHED",
+      "homeScore": 119,
+      "awayScore": 80,
       "homeTeam": {
         "id": "nba-2",
         "name": "凯尔特人",
@@ -21225,9 +21225,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T08:30:00+08:00",
       "venue": "NBA杯小组赛东部B组",
-      "status": "LIVE",
-      "homeScore": 54,
-      "awayScore": 62,
+      "status": "FINISHED",
+      "homeScore": 95,
+      "awayScore": 119,
       "homeTeam": {
         "id": "nba-20",
         "name": "76人",
@@ -21258,9 +21258,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T09:00:00+08:00",
       "venue": "NBA杯小组赛西部A组",
-      "status": "LIVE",
-      "homeScore": 45,
-      "awayScore": 45,
+      "status": "FINISHED",
+      "homeScore": 100,
+      "awayScore": 112,
       "homeTeam": {
         "id": "nba-26",
         "name": "爵士",
@@ -21291,9 +21291,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T09:00:00+08:00",
       "venue": "NBA杯小组赛西部B组",
-      "status": "LIVE",
-      "homeScore": 56,
-      "awayScore": 39,
+      "status": "FINISHED",
+      "homeScore": 128,
+      "awayScore": 97,
       "homeTeam": {
         "id": "nba-25",
         "name": "雷霆",
@@ -21324,9 +21324,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T09:00:00+08:00",
       "venue": "NBA杯小组赛东部A组",
-      "status": "LIVE",
-      "homeScore": 33,
-      "awayScore": 42,
+      "status": "FINISHED",
+      "homeScore": 121,
+      "awayScore": 107,
       "homeTeam": {
         "id": "nba-28",
         "name": "猛龙",
@@ -21357,9 +21357,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T09:00:00+08:00",
       "venue": "NBA杯小组赛西部B组",
-      "status": "LIVE",
-      "homeScore": 37,
-      "awayScore": 43,
+      "status": "FINISHED",
+      "homeScore": 115,
+      "awayScore": 109,
       "homeTeam": {
         "id": "nba-16",
         "name": "森林狼",
@@ -21390,9 +21390,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T11:00:00+08:00",
       "venue": "NBA杯小组赛西部C组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 118,
+      "awayScore": 124,
       "homeTeam": {
         "id": "nba-22",
         "name": "开拓者",
@@ -21423,9 +21423,9 @@
       "league": "NBA",
       "startsAt": "2026-11-07T11:00:00+08:00",
       "venue": "NBA杯小组赛西部C组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 124,
+      "awayScore": 109,
       "homeTeam": {
         "id": "nba-24",
         "name": "马刺",
@@ -33236,35 +33236,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:25.409059+00:00"
+      "updatedAt": "2026-11-07T08:46:40.480869+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:26.253454+00:00"
+      "updatedAt": "2026-11-07T08:46:41.335978+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:31.903127+00:00"
+      "updatedAt": "2026-11-07T08:46:48.668694+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:32.271168+00:00"
+      "updatedAt": "2026-11-07T08:46:48.925282+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:32.500299+00:00"
+      "updatedAt": "2026-11-07T08:46:49.193851+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:32.635696+00:00"
+      "updatedAt": "2026-11-07T08:46:49.405891+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:32.869801+00:00"
+      "updatedAt": "2026-11-07T08:46:49.661714+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-07T01:55:33.094144+00:00"
+      "updatedAt": "2026-11-07T08:46:49.796614+00:00"
     }
   },
   "errors": []
