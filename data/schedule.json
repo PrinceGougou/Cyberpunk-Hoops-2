@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:25:44.061197+00:00",
+  "generatedAt": "2026-11-07T21:49:18.572430+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -21456,9 +21456,9 @@
       "league": "LOL_INTL",
       "startsAt": "2026-11-07T22:00:00Z",
       "venue": "Worlds · 半决赛 · BO5",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 0,
+      "awayScore": 0,
       "homeTeam": {
         "id": "lol-gen",
         "name": "Gen.G Esports",
@@ -33236,35 +33236,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:35.634364+00:00"
+      "updatedAt": "2026-11-07T21:49:11.416343+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:36.387660+00:00"
+      "updatedAt": "2026-11-07T21:49:12.291861+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:43.454028+00:00"
+      "updatedAt": "2026-11-07T21:49:17.453857+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:43.679650+00:00"
+      "updatedAt": "2026-11-07T21:49:17.788692+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:43.759418+00:00"
+      "updatedAt": "2026-11-07T21:49:17.916455+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:43.799695+00:00"
+      "updatedAt": "2026-11-07T21:49:18.139906+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:43.908829+00:00"
+      "updatedAt": "2026-11-07T21:49:18.321842+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-07T16:25:44.060761+00:00"
+      "updatedAt": "2026-11-07T21:49:18.572032+00:00"
     }
   },
   "errors": []
