@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:26:12.905598+00:00",
+  "generatedAt": "2026-11-08T08:58:51.789354+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -21291,9 +21291,9 @@
       "league": "NBA",
       "startsAt": "2026-11-08T08:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 51,
-      "awayScore": 41,
+      "status": "FINISHED",
+      "homeScore": 121,
+      "awayScore": 124,
       "homeTeam": {
         "id": "nba-17",
         "name": "篮网",
@@ -21324,9 +21324,9 @@
       "league": "NBA",
       "startsAt": "2026-11-08T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 14,
-      "awayScore": 10,
+      "status": "FINISHED",
+      "homeScore": 109,
+      "awayScore": 97,
       "homeTeam": {
         "id": "nba-18",
         "name": "尼克斯",
@@ -21357,9 +21357,9 @@
       "league": "NBA",
       "startsAt": "2026-11-08T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 11,
-      "awayScore": 12,
+      "status": "FINISHED",
+      "homeScore": 75,
+      "awayScore": 114,
       "homeTeam": {
         "id": "nba-27",
         "name": "奇才",
@@ -21390,9 +21390,9 @@
       "league": "NBA",
       "startsAt": "2026-11-08T09:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 119,
+      "awayScore": 126,
       "homeTeam": {
         "id": "nba-19",
         "name": "魔术",
@@ -21423,9 +21423,9 @@
       "league": "NBA",
       "startsAt": "2026-11-08T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 99,
+      "awayScore": 102,
       "homeTeam": {
         "id": "nba-10",
         "name": "火箭",
@@ -21456,9 +21456,9 @@
       "league": "NBA",
       "startsAt": "2026-11-08T11:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 125,
+      "awayScore": 103,
       "homeTeam": {
         "id": "nba-24",
         "name": "马刺",
@@ -33335,35 +33335,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:05.299864+00:00"
+      "updatedAt": "2026-11-08T08:58:42.342209+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:06.243845+00:00"
+      "updatedAt": "2026-11-08T08:58:43.127366+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:11.927440+00:00"
+      "updatedAt": "2026-11-08T08:58:51.244537+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:12.299584+00:00"
+      "updatedAt": "2026-11-08T08:58:51.467795+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:12.450774+00:00"
+      "updatedAt": "2026-11-08T08:58:51.576284+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:12.598503+00:00"
+      "updatedAt": "2026-11-08T08:58:51.614558+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:12.758824+00:00"
+      "updatedAt": "2026-11-08T08:58:51.682609+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-08T01:26:12.905172+00:00"
+      "updatedAt": "2026-11-08T08:58:51.789127+00:00"
     }
   },
   "errors": []
