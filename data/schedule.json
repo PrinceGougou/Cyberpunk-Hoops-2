@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T04:06:35.990338+00:00",
+  "generatedAt": "2026-11-10T12:38:22.356235+00:00",
   "matches": [
     {
       "id": "lol-115548128962971871",
@@ -21423,9 +21423,9 @@
       "league": "NBA",
       "startsAt": "2026-11-10T10:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 107,
-      "awayScore": 80,
+      "status": "FINISHED",
+      "homeScore": 122,
+      "awayScore": 96,
       "homeTeam": {
         "id": "nba-24",
         "name": "马刺",
@@ -21456,9 +21456,9 @@
       "league": "NBA",
       "startsAt": "2026-11-10T11:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 43,
-      "awayScore": 72,
+      "status": "FINISHED",
+      "homeScore": 87,
+      "awayScore": 138,
       "homeTeam": {
         "id": "nba-3",
         "name": "鹈鹕",
@@ -33566,35 +33566,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:28.317647+00:00"
+      "updatedAt": "2026-11-10T12:38:13.665955+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:29.115063+00:00"
+      "updatedAt": "2026-11-10T12:38:14.455545+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:34.706430+00:00"
+      "updatedAt": "2026-11-10T12:38:21.803007+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:35.076134+00:00"
+      "updatedAt": "2026-11-10T12:38:22.014419+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:35.252278+00:00"
+      "updatedAt": "2026-11-10T12:38:22.097599+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:35.521354+00:00"
+      "updatedAt": "2026-11-10T12:38:22.137209+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:35.690741+00:00"
+      "updatedAt": "2026-11-10T12:38:22.248701+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-10T04:06:35.989867+00:00"
+      "updatedAt": "2026-11-10T12:38:22.355851+00:00"
     }
   },
   "errors": []
