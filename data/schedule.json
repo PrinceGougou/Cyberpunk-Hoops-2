@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-11-18T07:28:04.860214+00:00",
+  "generatedAt": "2026-11-18T17:15:16.684692+00:00",
   "matches": [
-    {
-      "id": "lol-115548128962971963",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-22T08:00:00Z",
-      "venue": "LCK · 第 8 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeTeam": {
-        "id": "lol-dns",
-        "name": "DN SOOPers",
-        "nameZh": "DN SOOPers",
-        "abbreviation": "DNS",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-krx",
-        "name": "KIWOOM DRX",
-        "nameZh": "KIWOOM DRX",
-        "abbreviation": "KRX",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
-    {
-      "id": "lol-115548128963037527",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-22T10:00:00Z",
-      "venue": "LCK · 第 8 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeTeam": {
-        "id": "lol-kt",
-        "name": "kt Rolster",
-        "nameZh": "kt Rolster",
-        "abbreviation": "KT",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-gen",
-        "name": "Gen.G Esports",
-        "nameZh": "Gen.G Esports",
-        "abbreviation": "GEN",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
     {
       "id": "lol-115548128962971927",
       "league": "LOL_LCK",
@@ -27920,39 +27854,6 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110738"
     },
     {
-      "id": "cba-100008-100110742",
-      "league": "CBA",
-      "startsAt": "2026-12-16T19:35:00+08:00",
-      "venue": "CBA常规赛第14轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "cba-40309",
-        "name": "上海久事",
-        "nameZh": "上海久事",
-        "abbreviation": "上海久",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "CBA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "cba-61596",
-        "name": "宁波町渥",
-        "nameZh": "宁波町渥",
-        "abbreviation": "宁波町",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "CBA",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110742",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110742",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110742"
-    },
-    {
       "id": "cba-100008-100110747",
       "league": "CBA",
       "startsAt": "2026-12-16T19:35:00+08:00",
@@ -28017,6 +27918,39 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110750",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110750"
+    },
+    {
+      "id": "cba-100008-100110742",
+      "league": "CBA",
+      "startsAt": "2026-12-16T19:35:00+08:00",
+      "venue": "CBA常规赛第14轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40309",
+        "name": "上海久事",
+        "nameZh": "上海久事",
+        "abbreviation": "上海久",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-61596",
+        "name": "宁波町渥",
+        "nameZh": "宁波町渥",
+        "abbreviation": "宁波町",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110742",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110742",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110742"
     },
     {
       "id": "nba-100000-10022600368",
@@ -34655,35 +34589,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:27:53.673599+00:00"
+      "updatedAt": "2026-11-18T17:15:11.432320+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:27:54.717015+00:00"
+      "updatedAt": "2026-11-18T17:15:12.183511+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:28:03.942769+00:00"
+      "updatedAt": "2026-11-18T17:15:16.066264+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:28:04.069499+00:00"
+      "updatedAt": "2026-11-18T17:15:16.274440+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:28:04.287263+00:00"
+      "updatedAt": "2026-11-18T17:15:16.391745+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:28:04.519615+00:00"
+      "updatedAt": "2026-11-18T17:15:16.485281+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:28:04.739833+00:00"
+      "updatedAt": "2026-11-18T17:15:16.587481+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-18T07:28:04.860006+00:00"
+      "updatedAt": "2026-11-18T17:15:16.684235+00:00"
     }
   },
   "errors": []
