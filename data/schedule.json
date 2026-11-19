@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-11-19T00:21:43.364635+00:00",
+  "generatedAt": "2026-11-19T10:19:14.218167+00:00",
   "matches": [
-    {
-      "id": "lol-115548128962971927",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-23T08:00:00Z",
-      "venue": "LCK · 第 8 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeTeam": {
-        "id": "lol-dk",
-        "name": "Dplus KIA",
-        "nameZh": "Dplus KIA",
-        "abbreviation": "DK",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-bfx",
-        "name": "BNK FEARX",
-        "nameZh": "BNK FEARX",
-        "abbreviation": "BFX",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
-    {
-      "id": "lol-115548128962971875",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-23T10:00:00Z",
-      "venue": "LCK · 第 8 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeTeam": {
-        "id": "lol-hle",
-        "name": "Hanwha Life Esports",
-        "nameZh": "Hanwha Life Esports",
-        "abbreviation": "HLE",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-ns",
-        "name": "NONGSHIM RED FORCE",
-        "nameZh": "NONGSHIM RED FORCE",
-        "abbreviation": "NS",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
     {
       "id": "lol-115548128962971947",
       "league": "LOL_LCK",
@@ -21357,9 +21291,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 15,
-      "awayScore": 20,
+      "status": "FINISHED",
+      "homeScore": 124,
+      "awayScore": 121,
       "homeTeam": {
         "id": "nba-29",
         "name": "灰熊",
@@ -21390,9 +21324,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 18,
-      "awayScore": 10,
+      "status": "FINISHED",
+      "homeScore": 119,
+      "awayScore": 104,
       "homeTeam": {
         "id": "nba-10",
         "name": "火箭",
@@ -21423,9 +21357,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 3,
-      "awayScore": 8,
+      "status": "FINISHED",
+      "homeScore": 130,
+      "awayScore": 137,
       "homeTeam": {
         "id": "nba-15",
         "name": "雄鹿",
@@ -21456,9 +21390,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T08:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 7,
-      "awayScore": 17,
+      "status": "FINISHED",
+      "homeScore": 121,
+      "awayScore": 116,
       "homeTeam": {
         "id": "nba-20",
         "name": "76人",
@@ -21489,9 +21423,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T08:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 137,
+      "awayScore": 107,
       "homeTeam": {
         "id": "nba-4",
         "name": "公牛",
@@ -21522,9 +21456,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T08:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 103,
+      "awayScore": 99,
       "homeTeam": {
         "id": "nba-27",
         "name": "奇才",
@@ -21555,9 +21489,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 122,
+      "awayScore": 109,
       "homeTeam": {
         "id": "nba-8",
         "name": "活塞",
@@ -21588,9 +21522,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 117,
+      "awayScore": 112,
       "homeTeam": {
         "id": "nba-1",
         "name": "老鹰",
@@ -21621,9 +21555,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 94,
+      "awayScore": 116,
       "homeTeam": {
         "id": "nba-9",
         "name": "勇士",
@@ -21654,9 +21588,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T10:30:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 101,
+      "awayScore": 105,
       "homeTeam": {
         "id": "nba-2",
         "name": "凯尔特人",
@@ -21687,9 +21621,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T11:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 109,
+      "awayScore": 97,
       "homeTeam": {
         "id": "nba-26",
         "name": "爵士",
@@ -21720,9 +21654,9 @@
       "league": "NBA",
       "startsAt": "2026-11-19T11:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "FINISHED",
+      "homeScore": 128,
+      "awayScore": 107,
       "homeTeam": {
         "id": "nba-21",
         "name": "太阳",
@@ -35084,35 +35018,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:37.997584+00:00"
+      "updatedAt": "2026-11-19T10:19:06.171318+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:38.738854+00:00"
+      "updatedAt": "2026-11-19T10:19:07.179746+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:42.787288+00:00"
+      "updatedAt": "2026-11-19T10:19:13.094848+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:42.989163+00:00"
+      "updatedAt": "2026-11-19T10:19:13.517142+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:43.072623+00:00"
+      "updatedAt": "2026-11-19T10:19:13.645696+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:43.152966+00:00"
+      "updatedAt": "2026-11-19T10:19:13.880100+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:43.252244+00:00"
+      "updatedAt": "2026-11-19T10:19:14.114814+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-19T00:21:43.364182+00:00"
+      "updatedAt": "2026-11-19T10:19:14.217774+00:00"
     }
   },
   "errors": []
