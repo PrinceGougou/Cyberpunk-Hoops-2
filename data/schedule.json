@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-11-20T03:13:40.066523+00:00",
+  "generatedAt": "2026-11-20T12:52:58.525177+00:00",
   "matches": [
-    {
-      "id": "lol-115548128962971947",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-24T08:00:00Z",
-      "venue": "LCK · 第 8 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeTeam": {
-        "id": "lol-gen",
-        "name": "Gen.G Esports",
-        "nameZh": "Gen.G Esports",
-        "abbreviation": "GEN",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-dns",
-        "name": "DN SOOPers",
-        "nameZh": "DN SOOPers",
-        "abbreviation": "DNS",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
-    {
-      "id": "lol-115548128962971891",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-24T10:00:00Z",
-      "venue": "LCK · 第 8 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeTeam": {
-        "id": "lol-t1",
-        "name": "T1",
-        "nameZh": "T1",
-        "abbreviation": "T1",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-bro",
-        "name": "HANJIN BRION",
-        "nameZh": "HANJIN BRION",
-        "abbreviation": "BRO",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
     {
       "id": "lol-115548128962971863",
       "league": "LOL_LCK",
@@ -21687,9 +21621,9 @@
       "league": "NBA",
       "startsAt": "2026-11-20T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 85,
-      "awayScore": 115,
+      "status": "FINISHED",
+      "homeScore": 98,
+      "awayScore": 126,
       "homeTeam": {
         "id": "nba-9",
         "name": "勇士",
@@ -21720,9 +21654,9 @@
       "league": "NBA",
       "startsAt": "2026-11-20T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 103,
-      "awayScore": 100,
+      "status": "FINISHED",
+      "homeScore": 124,
+      "awayScore": 114,
       "homeTeam": {
         "id": "nba-22",
         "name": "开拓者",
@@ -21753,9 +21687,9 @@
       "league": "NBA",
       "startsAt": "2026-11-20T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
+      "status": "FINISHED",
       "homeScore": 102,
-      "awayScore": 93,
+      "awayScore": 99,
       "homeTeam": {
         "id": "nba-18",
         "name": "尼克斯",
@@ -21786,9 +21720,9 @@
       "league": "NBA",
       "startsAt": "2026-11-20T09:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 103,
-      "awayScore": 107,
+      "status": "FINISHED",
+      "homeScore": 112,
+      "awayScore": 124,
       "homeTeam": {
         "id": "nba-12",
         "name": "快船",
@@ -35447,35 +35381,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:34.993053+00:00"
+      "updatedAt": "2026-11-20T12:52:52.878679+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:35.747259+00:00"
+      "updatedAt": "2026-11-20T12:52:53.627314+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:39.437905+00:00"
+      "updatedAt": "2026-11-20T12:52:58.038025+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:39.660627+00:00"
+      "updatedAt": "2026-11-20T12:52:58.226916+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:39.762249+00:00"
+      "updatedAt": "2026-11-20T12:52:58.310506+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:39.831174+00:00"
+      "updatedAt": "2026-11-20T12:52:58.383957+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:39.956657+00:00"
+      "updatedAt": "2026-11-20T12:52:58.459274+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-20T03:13:40.066075+00:00"
+      "updatedAt": "2026-11-20T12:52:58.524755+00:00"
     }
   },
   "errors": []
