@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:47:50.393230+00:00",
+  "generatedAt": "2026-11-22T17:49:29.890764+00:00",
   "matches": [
     {
       "id": "lol-115548128962971863",
@@ -29042,6 +29042,39 @@
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600395"
     },
     {
+      "id": "cba-100008-100110785",
+      "league": "CBA",
+      "startsAt": "2026-12-19T19:35:00+08:00",
+      "venue": "CBA常规赛第15轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40307",
+        "name": "福建晋江文旅",
+        "nameZh": "福建晋江文旅",
+        "abbreviation": "福建晋",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40312",
+        "name": "浙江稠州金租",
+        "nameZh": "浙江稠州金租",
+        "abbreviation": "浙江稠",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110785",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110785",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110785"
+    },
+    {
       "id": "cba-100008-100110786",
       "league": "CBA",
       "startsAt": "2026-12-19T19:35:00+08:00",
@@ -29106,39 +29139,6 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110790",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110790"
-    },
-    {
-      "id": "cba-100008-100110785",
-      "league": "CBA",
-      "startsAt": "2026-12-19T19:35:00+08:00",
-      "venue": "CBA常规赛第15轮",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
-      "homeTeam": {
-        "id": "cba-40307",
-        "name": "福建晋江文旅",
-        "nameZh": "福建晋江文旅",
-        "abbreviation": "福建晋",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "CBA",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "cba-40312",
-        "name": "浙江稠州金租",
-        "nameZh": "浙江稠州金租",
-        "abbreviation": "浙江稠",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "CBA",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110785",
-      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110785",
-      "broadcastProvider": "Tencent Sports",
-      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110785"
     },
     {
       "id": "nba-100000-10022600396",
@@ -36140,35 +36140,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:44.623925+00:00"
+      "updatedAt": "2026-11-22T17:49:23.123766+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:45.396519+00:00"
+      "updatedAt": "2026-11-22T17:49:24.059059+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:49.925368+00:00"
+      "updatedAt": "2026-11-22T17:49:28.775096+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:50.078420+00:00"
+      "updatedAt": "2026-11-22T17:49:29.030659+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:50.127504+00:00"
+      "updatedAt": "2026-11-22T17:49:29.256520+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:50.214075+00:00"
+      "updatedAt": "2026-11-22T17:49:29.403691+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:50.303935+00:00"
+      "updatedAt": "2026-11-22T17:49:29.655371+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-22T09:47:50.392821+00:00"
+      "updatedAt": "2026-11-22T17:49:29.890371+00:00"
     }
   },
   "errors": []
