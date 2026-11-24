@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-11-24T04:47:37.830397+00:00",
+  "generatedAt": "2026-11-24T17:43:13.644491+00:00",
   "matches": [
-    {
-      "id": "lol-115548128962971959",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-28T08:00:00Z",
-      "venue": "LCK · 第 9 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeTeam": {
-        "id": "lol-dns",
-        "name": "DN SOOPers",
-        "nameZh": "DN SOOPers",
-        "abbreviation": "DNS",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-ns",
-        "name": "NONGSHIM RED FORCE",
-        "nameZh": "NONGSHIM RED FORCE",
-        "abbreviation": "NS",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
-    {
-      "id": "lol-115548128962971903",
-      "league": "LOL_LCK",
-      "startsAt": "2026-05-28T10:00:00Z",
-      "venue": "LCK · 第 9 周 · BO3",
-      "status": "FINISHED",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeTeam": {
-        "id": "lol-t1",
-        "name": "T1",
-        "nameZh": "T1",
-        "abbreviation": "T1",
-        "primaryColor": "#00f0ff",
-        "secondaryColor": "#bc00dd",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "awayTeam": {
-        "id": "lol-kt",
-        "name": "kt Rolster",
-        "nameZh": "kt Rolster",
-        "abbreviation": "KT",
-        "primaryColor": "#ff0055",
-        "secondaryColor": "#f8ff00",
-        "group": "LOL_LCK",
-        "roster": []
-      },
-      "videoHighlightUrl": "https://live.bilibili.com/lol",
-      "galleryUrl": "",
-      "broadcastProvider": "LoL Esports (Riot Games)",
-      "sourceUrl": "https://lolesports.com/en-US/?leagues=lck"
-    },
     {
       "id": "lol-115548128963037547",
       "league": "LOL_LCK",
@@ -22677,9 +22611,9 @@
       "league": "NBA",
       "startsAt": "2026-11-24T11:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 67,
-      "awayScore": 65,
+      "status": "FINISHED",
+      "homeScore": 94,
+      "awayScore": 109,
       "homeTeam": {
         "id": "nba-26",
         "name": "爵士",
@@ -22710,9 +22644,9 @@
       "league": "NBA",
       "startsAt": "2026-11-24T11:00:00+08:00",
       "venue": "NBA常规赛",
-      "status": "LIVE",
-      "homeScore": 88,
-      "awayScore": 72,
+      "status": "FINISHED",
+      "homeScore": 123,
+      "awayScore": 107,
       "homeTeam": {
         "id": "nba-24",
         "name": "马刺",
@@ -36833,35 +36767,35 @@
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:28.344134+00:00"
+      "updatedAt": "2026-11-24T17:43:06.723159+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:29.245453+00:00"
+      "updatedAt": "2026-11-24T17:43:07.528109+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:36.514113+00:00"
+      "updatedAt": "2026-11-24T17:43:12.744321+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:36.890766+00:00"
+      "updatedAt": "2026-11-24T17:43:13.059006+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:37.132906+00:00"
+      "updatedAt": "2026-11-24T17:43:13.166085+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:37.364809+00:00"
+      "updatedAt": "2026-11-24T17:43:13.276958+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:37.580663+00:00"
+      "updatedAt": "2026-11-24T17:43:13.422277+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-24T04:47:37.829956+00:00"
+      "updatedAt": "2026-11-24T17:43:13.644088+00:00"
     }
   },
   "errors": []
