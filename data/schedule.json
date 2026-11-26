@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:21:00.462179+00:00",
+  "generatedAt": "2026-11-26T00:20:04.907265+00:00",
   "matches": [
     {
       "id": "lol-115548128962971955",
@@ -22710,9 +22710,9 @@
       "league": "NBA",
       "startsAt": "2026-11-26T06:00:00+08:00",
       "venue": "NBA杯小组赛东部B组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 95,
+      "awayScore": 106,
       "homeTeam": {
         "id": "nba-14",
         "name": "热火",
@@ -22743,9 +22743,9 @@
       "league": "NBA",
       "startsAt": "2026-11-26T08:00:00+08:00",
       "venue": "NBA杯小组赛东部C组",
-      "status": "UPCOMING",
-      "homeScore": null,
-      "awayScore": null,
+      "status": "LIVE",
+      "homeScore": 4,
+      "awayScore": 8,
       "homeTeam": {
         "id": "nba-4",
         "name": "公牛",
@@ -37158,40 +37158,337 @@
       "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110829",
       "broadcastProvider": "Tencent Sports",
       "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110829"
+    },
+    {
+      "id": "nba-100000-10022600550",
+      "league": "NBA",
+      "startsAt": "2027-01-10T06:00:00+08:00",
+      "venue": "NBA常规赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-7",
+        "name": "掘金",
+        "nameZh": "掘金",
+        "abbreviation": "掘金",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-5",
+        "name": "骑士",
+        "nameZh": "骑士",
+        "abbreviation": "骑士",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600550",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600550",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600550"
+    },
+    {
+      "id": "nba-100000-10022600551",
+      "league": "NBA",
+      "startsAt": "2027-01-10T07:00:00+08:00",
+      "venue": "NBA常规赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-10",
+        "name": "火箭",
+        "nameZh": "火箭",
+        "abbreviation": "火箭",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-17",
+        "name": "篮网",
+        "nameZh": "篮网",
+        "abbreviation": "篮网",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600551",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600551",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600551"
+    },
+    {
+      "id": "nba-100000-10022600552",
+      "league": "NBA",
+      "startsAt": "2027-01-10T08:00:00+08:00",
+      "venue": "NBA常规赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-15",
+        "name": "雄鹿",
+        "nameZh": "雄鹿",
+        "abbreviation": "雄鹿",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-11",
+        "name": "步行者",
+        "nameZh": "步行者",
+        "abbreviation": "步行者",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600552",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600552",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600552"
+    },
+    {
+      "id": "nba-100000-10022600553",
+      "league": "NBA",
+      "startsAt": "2027-01-10T09:30:00+08:00",
+      "venue": "NBA常规赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-4",
+        "name": "公牛",
+        "nameZh": "公牛",
+        "abbreviation": "公牛",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-9",
+        "name": "勇士",
+        "nameZh": "勇士",
+        "abbreviation": "勇士",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600553",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600553",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600553"
+    },
+    {
+      "id": "nba-100000-10022600554",
+      "league": "NBA",
+      "startsAt": "2027-01-10T11:00:00+08:00",
+      "venue": "NBA常规赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-30",
+        "name": "黄蜂",
+        "nameZh": "黄蜂",
+        "abbreviation": "黄蜂",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-22",
+        "name": "开拓者",
+        "nameZh": "开拓者",
+        "abbreviation": "开拓者",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600554",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600554",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600554"
+    },
+    {
+      "id": "nba-100000-10022600555",
+      "league": "NBA",
+      "startsAt": "2027-01-10T11:30:00+08:00",
+      "venue": "NBA常规赛",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "nba-2",
+        "name": "凯尔特人",
+        "nameZh": "凯尔特人",
+        "abbreviation": "凯尔特",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "NBA_EAST",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "nba-12",
+        "name": "快船",
+        "nameZh": "快船",
+        "abbreviation": "快船",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "NBA_WEST",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600555",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600555",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100000:10022600555"
+    },
+    {
+      "id": "cba-100008-100110835",
+      "league": "CBA",
+      "startsAt": "2027-01-10T19:35:00+08:00",
+      "venue": "CBA常规赛第25轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40308",
+        "name": "辽宁本钢",
+        "nameZh": "辽宁本钢",
+        "abbreviation": "辽宁本",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40321",
+        "name": "江苏肯帝亚",
+        "nameZh": "江苏肯帝亚",
+        "abbreviation": "江苏肯",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110835",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110835",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110835"
+    },
+    {
+      "id": "cba-100008-100110838",
+      "league": "CBA",
+      "startsAt": "2027-01-10T19:35:00+08:00",
+      "venue": "CBA常规赛第25轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40316",
+        "name": "天津先行者",
+        "nameZh": "天津先行者",
+        "abbreviation": "天津先",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40313",
+        "name": "广东东阳光",
+        "nameZh": "广东东阳光",
+        "abbreviation": "广东东",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110838",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110838",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110838"
+    },
+    {
+      "id": "cba-100008-100110840",
+      "league": "CBA",
+      "startsAt": "2027-01-10T19:35:00+08:00",
+      "venue": "CBA常规赛第25轮",
+      "status": "UPCOMING",
+      "homeScore": null,
+      "awayScore": null,
+      "homeTeam": {
+        "id": "cba-40312",
+        "name": "浙江稠州金租",
+        "nameZh": "浙江稠州金租",
+        "abbreviation": "浙江稠",
+        "primaryColor": "#00f0ff",
+        "secondaryColor": "#bc00dd",
+        "group": "CBA",
+        "roster": []
+      },
+      "awayTeam": {
+        "id": "cba-40311",
+        "name": "长白山恩都里",
+        "nameZh": "长白山恩都里",
+        "abbreviation": "长白山",
+        "primaryColor": "#ff0055",
+        "secondaryColor": "#f8ff00",
+        "group": "CBA",
+        "roster": []
+      },
+      "videoHighlightUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110840",
+      "galleryUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110840",
+      "broadcastProvider": "Tencent Sports",
+      "sourceUrl": "https://sports.qq.com/kbsweb/game.htm?mid=100008:100110840"
     }
   ],
   "acquisition": {
     "NBA": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:20:51.407816+00:00"
+      "updatedAt": "2026-11-26T00:19:57.999741+00:00"
     },
     "CBA": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:20:52.376130+00:00"
+      "updatedAt": "2026-11-26T00:19:59.021450+00:00"
     },
     "CHINA_MEN_OFFICIAL": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:20:59.430149+00:00"
+      "updatedAt": "2026-11-26T00:20:03.948587+00:00"
     },
     "LOL_LPL": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:20:59.788980+00:00"
+      "updatedAt": "2026-11-26T00:20:04.304455+00:00"
     },
     "LOL_LCK": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:20:59.907279+00:00"
+      "updatedAt": "2026-11-26T00:20:04.414313+00:00"
     },
     "LOL_WORLDS": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:21:00.114746+00:00"
+      "updatedAt": "2026-11-26T00:20:04.676711+00:00"
     },
     "LOL_MSI": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:21:00.225183+00:00"
+      "updatedAt": "2026-11-26T00:20:04.791248+00:00"
     },
     "LOL_FIRST_STAND": {
       "mode": "live",
-      "updatedAt": "2026-11-25T14:21:00.461712+00:00"
+      "updatedAt": "2026-11-26T00:20:04.906891+00:00"
     }
   },
   "errors": []
